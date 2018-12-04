@@ -1,0 +1,5512 @@
+  54 day
+  53 go
+  46 going
+  35 going to
+  29 work
+  27 good
+  26 go to
+  26 some
+  25 play
+  24 night
+  23 afternoon
+  23 morning
+  23 years
+  22 music
+  22 name
+  22 people
+  21 dishes
+  21 old
+  21 take
+  21 time
+  20 job
+  20 need
+  19 floor
+  19 washed
+  18 friends
+  18 think
+  18 washed the
+  18 washed the dishes
+  17 dinner
+  17 goes
+  17 hair
+  17 love
+  17 made
+  16 bed
+  16 food
+  15 get
+  15 live
+  15 made the
+  15 stay
+  15 wear
+  14 evening
+  14 long
+  14 week
+  14 years old
+  13 beds
+  13 place
+  13 talk
+  12 company
+  12 go to the
+  12 goes to
+  12 know
+  12 shopping
+  12 want
+  12 weather
+  11 beautiful
+  11 home
+  11 live in
+  11 make
+  11 meet
+  10 going to go
+  10 hope
+  10 points
+  10 wearing
+  10 working
+   9 days
+   9 name is
+   9 night ,
+   9 playing
+   9 position
+   9 year
+   8 afternoon ,
+   8 back
+   8 day ,
+   8 friend
+   8 fun
+   8 give
+   8 interesting
+   8 late
+   8 made the beds
+   8 size
+   8 soon
+   8 want to
+   8 wearing a
+   8 weekend
+   7 area
+   7 big
+   7 chairs
+   7 clean
+   7 dance
+   7 dishes and
+   7 experience
+   7 favorite
+   7 goes to the
+   7 going to go to
+   7 got
+   7 hair and
+   7 lunch
+   7 taking
+   7 turn
+   6 better
+   6 clothes
+   6 course
+   6 eat
+   6 feed
+   6 graduated
+   6 group
+   6 leave
+   6 little
+   6 look
+   6 lot
+   6 morning ,
+   6 name 's
+   6 old ,
+   6 plays
+   6 rain
+   6 someone
+   6 student
+   6 study
+   6 tell
+   6 thing
+   6 things
+   6 think you
+   6 washed the dishes and
+   6 work in
+   6 years old ,
+   5 apply
+   5 arrived
+   5 bed and
+   5 beds and
+   5 business
+   5 called
+   5 chairs ,
+   5 change
+   5 day is
+   5 dishes ,
+   5 dress
+   5 exciting
+   5 fever
+   5 floor ,
+   5 floor and
+   5 friendly
+   5 full
+   5 go to a
+   5 goes to the park
+   5 going to the
+   5 good for
+   5 last
+   5 listen
+   5 made the bed
+   5 make the
+   5 meeting
+   5 need to
+   5 nice
+   5 opportunity
+   5 pay
+   5 put
+   5 same
+   5 see
+   5 send
+   5 take a
+   5 thanks
+   5 think you should
+   5 think you should buy
+   5 times
+   5 top
+   5 use
+   5 weather is
+   5 working in
+   4 apply for
+   4 arrive
+   4 attention
+   4 begin
+   4 believe
+   4 books
+   4 breakfast
+   4 bring
+   4 children
+   4 clean the
+   4 come
+   4 contact
+   4 dance music
+   4 day and
+   4 dishes and made
+   4 dishes and made the
+   4 eats
+   4 expensive
+   4 feed the
+   4 feel
+   4 find
+   4 fine
+   4 fish
+   4 get a
+   4 go on
+   4 go to a music
+   4 go to {+the+}
+   4 going to be
+   4 going to listen
+   4 headache
+   4 kind
+   4 know what
+   4 learn
+   4 left
+   4 life
+   4 light
+   4 listening
+   4 long and
+   4 looking
+   4 looks
+   4 lot of
+   4 love {+to+}
+   4 making
+   4 married
+   4 meet you
+   4 money
+   4 music festival
+   4 paid
+   4 paper
+   4 phones
+   4 police
+   4 prefer
+   4 problems
+   4 rainy
+   4 regards
+   4 said
+   4 sleeping
+   4 sometimes
+   4 stay at
+   4 style
+   4 tell you
+   4 trip
+   4 usually
+   4 visit
+   4 washed the dishes ,
+   4 wear {+a+}
+   4 weekend ,
+   4 wet
+   4 write
+   3 English
+   3 ability
+   3 ability to
+   3 accident
+   3 bands
+   3 become
+   3 beds [-,>>.+}
+   3 believe I
+   3 books ,
+   3 born
+   3 breaks
+   3 bring a
+   3 bring a small
+   3 bring a small gift
+   3 broke
+   3 change the
+   3 cinema
+   3 clean the house
+   3 club
+   3 dancing
+   3 day for
+   3 day in
+   3 day in the
+   3 days ,
+   3 die
+   3 different
+   3 dinner ,
+   3 dinner , washed
+   3 dishes , made
+   3 dishes , made the
+   3 dream
+   3 dresses
+   3 drive
+   3 eats dinner
+   3 electronic
+   3 electronic dictionary
+   3 end
+   3 evening ,
+   3 evening at
+   3 fine ,
+   3 floor twice
+   3 floor twice a
+   3 floor twice a week
+   3 food and
+   3 food to
+   3 friend ,
+   3 friendly and
+   3 friends at
+   3 get up
+   3 get up at
+   3 getting
+   3 go straight
+   3 go {+to+}
+   3 goes swimming
+   3 goes swimming at
+   3 goes swimming at 11:30
+   3 group 2
+   3 hair .
+   3 hair and small
+   3 hair and small ,
+   3 health
+   3 holiday
+   3 hope that
+   3 hours
+   3 interesting ,
+   3 invite
+   3 job ,
+   3 kind of
+   3 late when
+   3 left on
+   3 long and black
+   3 looks like
+   3 lunch at
+   3 made the beds [-,>>.+}
+   3 made the beds and
+   3 month
+   3 music ,
+   3 music and
+   3 name ?-]
+   3 needs
+   3 news
+   3 night , I
+   3 no
+   3 number
+   3 opportunity to
+   3 opposite
+   3 party
+   3 pass
+   3 people and
+   3 person
+   3 phones ,
+   3 piano
+   3 play games
+   3 please
+   3 pleasure
+   3 point
+   3 problem
+   3 promotion
+   3 recent
+   3 right
+   3 sales
+   3 school
+   3 several
+   3 size :
+   3 some of
+   3 sorry
+   3 spend
+   3 staff
+   3 stay at home
+   3 stay too
+   3 stay too late
+   3 stop
+   3 strike
+   3 studied
+   3 take the
+   3 take two
+   3 takes
+   3 taking a
+   3 taking a tent
+   3 taking a tent ,
+   3 talk to
+   3 time in
+   3 time to
+   3 toilet
+   3 toilet paper
+   3 tour
+   3 travel
+   3 trips
+   3 turns
+   3 wearing a white
+   3 went
+   3 went to
+   3 world
+   2 English ,
+   2 accident insurance
+   2 accident insurance and
+   2 aches
+   2 aches and
+   2 aches and pains
+   2 add
+   2 afternoon , at
+   2 afternoon , he
+   2 afternoon , it
+   2 afternoon , it 's
+   2 appropriate
+   2 area of
+   2 arrived [-in>>at+}
+   2 assist
+   2 attention relating
+   2 attention relating to
+   2 attention relating to your
+   2 baby
+   2 back from
+   2 beautiful city
+   2 bed at
+   2 beds [-,>>.+} on
+   2 began
+   2 begin to
+   2 benefits
+   2 bit
+   2 book
+   2 break
+   2 broken
+   2 brought
+   2 brought to
+   2 brought to my
+   2 brought to my attention
+   2 bus
+   2 business [-trip>>trips+}
+   2 busy
+   2 camping
+   2 care
+   2 caught
+   2 centre
+   2 changed
+   2 choose
+   2 cinema and
+   2 clean my
+   2 clean the house and
+   2 cleaning
+   2 clock
+   2 color
+   2 companies
+   2 company 's
+   2 company 's logo
+   2 company and
+   2 complain
+   2 consider
+   2 consider it
+   2 consider it impolite
+   2 contact with
+   2 dance and
+   2 dancing ,
+   2 dark
+   2 date
+   2 day for the
+   2 day for the beach
+   2 day in the [-morning>>mornings+}
+   2 day is [-saturday>>Saturday+}
+   2 day of
+   2 dinner , washed the
+   2 dinner .
+   2 dinner and
+   2 dinner at
+   2 discriminated
+   2 discrimination
+   2 dishes on
+   2 eat at
+   2 eating
+   2 eats dinner at
+   2 end ,
+   2 evening I
+   2 exciting and
+   2 exciting and great
+   2 exciting and great fun
+   2 expensive ,
+   2 fall
+   2 fall in
+   2 fall in love
+   2 fantastic
+   2 favorite day
+   2 favourite
+   2 favourite day
+   2 favourite day is
+   2 feel tired
+   2 fever ,
+   2 find a
+   2 fine , thanks
+   2 fishes
+   2 floor , washed
+   2 floor , washed the
+   2 food to {+the+}
+   2 foods
+   2 forgot
+   2 forgot to
+   2 found
+   2 friends ,
+   2 friends to
+   2 fruits
+   2 full accident
+   2 full accident insurance
+   2 full accident insurance and
+   2 full time
+   2 fun and
+   2 funny
+   2 get a promotion
+   2 get up at 9
+   2 give food
+   2 give food to
+   2 give food to {+the+}
+   2 give you
+   2 giving
+   2 giving me
+   2 giving me the
+   2 go [-to-]
+   2 go [-to>>on+}
+   2 go out
+   2 go straight on
+   2 go straight on {+the+}
+   2 go to bed
+   2 go to the bars
+   2 go to the beach
+   2 go to {+the+} museum
+   2 goes to bed
+   2 goes to the cinema
+   2 going to be hot
+   2 going to go {+to+}
+   2 going to listen to
+   2 going to the museum
+   2 going to+}
+   2 good day
+   2 good day for
+   2 good day for the
+   2 good person
+   2 got to
+   2 graduated from
+   2 group 1
+   2 guitar
+   2 habits
+   2 hair . My
+   2 hair . My mother
+   2 half
+   2 half and
+   2 half and you
+   2 half and you touch
+   2 happen
+   2 headache ,
+   2 high
+   2 holiday in
+   2 home is
+   2 homework
+   2 homework and
+   2 important
+   2 invite you
+   2 invited
+   2 job because
+   2 job is
+   2 knocked
+   2 knocked down
+   2 last game
+   2 last game in
+   2 last game in a
+   2 late ,
+   2 late and
+   2 late when visiting
+   2 learning
+   2 let
+   2 light blue
+   2 listen to
+   2 listen {+to+}
+   2 listening to
+   2 listening to music
+   2 listening to music ,
+   2 live in Rio
+   2 live in Rio de
+   2 live in Salvador
+   2 lives
+   2 long ,
+   2 look for
+   2 looking for
+   2 lots
+   2 lots of
+   2 love my
+   2 love my job
+   2 love the
+   2 made the bed and
+   2 made the dinner
+   2 made the dinner ,
+   2 make the punishment
+   2 make the punishment that
+   2 market
+   2 marketing
+   2 married in
+   2 marry
+   2 master
+   2 meet friends
+   2 meeting and
+   2 menu
+   2 minutes
+   2 month holiday
+   2 months
+   2 morning , he
+   2 morning , he goes
+   2 morning .
+   2 morning I
+   2 morning and
+   2 name ?-] My
+   2 name ?-] My name
+   2 near
+   2 need {+to+}
+   2 number is
+   2 numbers
+   2 obtain
+   2 old , she
+   2 old , she 's
+   2 open
+   2 opportunity to apply
+   2 opportunity to apply for
+   2 opposite the
+   2 opposite the park
+   2 own
+   2 paid the
+   2 paid the bills
+   2 people in
+   2 people in my
+   2 perfect
+   2 phone
+   2 place ,
+   2 place for
+   2 place is
+   2 play games with
+   2 play soccer
+   2 play tennis
+   2 play the
+   2 play volleyball
+   2 playing football
+   2 plays computer
+   2 plays computer games
+   2 plays computer games at
+   2 plays tennis
+   2 points together
+   2 position ,
+   2 position , I
+   2 prepare
+   2 present
+   2 print
+   2 problems ,
+   2 problems have
+   2 problems have been
+   2 problems have been brought
+   2 punishment
+   2 punishment that
+   2 punishment that you
+   2 punishment that you put
+   2 put your
+   2 put your partner
+   2 put {+it+}
+   2 putting
+   2 quickly
+   2 quite
+   2 rain all
+   2 raining
+   2 rainy and
+   2 regards ,+}
+   2 related
+   2 related to
+   2 remember
+   2 respect
+   2 responsible
+   2 right on
+   2 right on {+the+}
+   2 rows
+   2 running
+   2 said I
+   2 said I should
+   2 said I should n't
+   2 salary
+   2 school and
+   2 send you
+   2 shopping ,
+   2 side
+   2 side will
+   2 side will make
+   2 side will make the
+   2 size : 9.0
+   2 size : 9.0 {+A+}
+   2 sleep
+   2 smoke
+   2 smoke in
+   2 smoke in any
+   2 smoke in any public
+   2 some money
+   2 some of the
+   2 some tomatoes
+   2 someone ,
+   2 something
+   2 speak
+   2 stay in
+   2 stay too late when
+   2 staying
+   2 staying in
+   2 staying in a
+   2 student [-of
+   2 student [-of English-]
+   2 suffering
+   2 suit
+   2 take a spoonful
+   2 take care
+   2 take the dogs
+   2 take the dogs for
+   2 take two shots
+   2 take two shots on
+   2 takes two
+   2 takes two more
+   2 takes two more shots
+   2 talk [-with>>to+}
+   2 talk on
+   2 talk shows
+   2 talking
+   2 taxi
+   2 tell you what
+   2 tell you what I
+   2 think it
+   2 time ,
+   2 time and
+   2 told
+   2 took
+   2 top and
+   2 touch
+   2 touch the
+   2 touch the other
+   2 touch the other side
+   2 trip to
+   2 true
+   2 turn left
+   2 turn left on
+   2 turn right
+   2 turn right on
+   2 turn right on {+the+}
+   2 turned
+   2 turned out
+   2 university
+   2 use it
+   2 vegetables
+   2 viewed
+   2 viewed as
+   2 viewed as inappropriate
+   2 visit someone
+   2 visit someone ,
+   2 visiting
+   2 washed the dishes on
+   2 wear ,
+   2 wear pants
+   2 wearing a pink
+   2 wearing {+a+}
+   2 weather is going
+   2 weather is going to
+   2 weather is wet
+   2 week .
+   2 weekend , I
+   2 weekends
+   2 wet ,
+   2 win
+   2 wish
+   2 wishes
+   2 work for
+   2 work long
+   2 worked
+   2 working style
+   2 world ,
+   2 write emails
+   2 year in
+   2 years old , she
+   1 English , but
+   1 English , but I
+   1 English , surfing
+   1 English , surfing the
+   1 USA
+   1 ability to assist
+   1 ability to assist [-the>>my+}
+   1 ability to make
+   1 ability to make [-the>>a+}
+   1 ability to quick
+   1 ability to quick disarm
+   1 accident had
+   1 accident had affected
+   1 accident had affected [-on-]
+   1 accident insurance and 1
+   1 accident insurance and one
+   1 according
+   1 according [-with>>to+}
+   1 according [-with>>to+} a
+   1 according [-with>>to+} a recent
+   1 aches and pains ,
+   1 add the
+   1 add the points
+   1 add the points together
+   1 add {+all+}
+   1 add {+all+} the
+   1 add {+all+} the points
+   1 adores
+   1 adores you
+   1 adores you ,
+   1 adores you , and
+   1 advantage
+   1 advantage with
+   1 advantage with your
+   1 advantage with your position
+   1 advertisement
+   1 advertisement .
+   1 advertisement . My
+   1 advertisement . My personal
+   1 affected
+   1 affected [-on-]
+   1 affected [-on-] my
+   1 affected [-on-] my friend
+   1 afraid
+   1 afraid to
+   1 afraid to die
+   1 afraid to die and
+   1 afternoon , I
+   1 afternoon , I have
+   1 afternoon , Wednesday
+   1 afternoon , Wednesday afternoon
+   1 afternoon , at four
+   1 afternoon , at three
+   1 afternoon , he [-eat>>eats+}
+   1 afternoon , he goes
+   1 afternoon [-,-]
+   1 afternoon [-,-] and
+   1 afternoon [-,-] and [-friday>>Friday+}
+   1 afternoon [-by>>on+}
+   1 afternoon [-by>>on+} the
+   1 afternoon [-by>>on+} the beach
+   1 afternoon [-i>>I+}
+   1 afternoon [-i>>I+} play
+   1 afternoon [-i>>I+} play tennis
+   1 afternoon after
+   1 afternoon after he
+   1 afternoon after he does
+   1 afternoon and
+   1 afternoon and all
+   1 afternoon and all night
+   1 afternoon at
+   1 afternoon at 12:30
+   1 afternoon at 12:30 he
+   1 afternoon please
+   1 afternoon please walk
+   1 afternoon please walk the
+   1 agent
+   1 ago
+   1 ago I
+   1 ago I [-sweeped>>swept+}
+   1 ago I [-sweeped>>swept+} {+the+}
+   1 agree
+   1 agree to
+   1 agree to marry
+   1 agree to marry to
+   1 aims
+   1 aims and
+   1 aims and objectives
+   1 aims and objectives ,
+   1 alarm
+   1 alarm clock
+   1 alarm clock "
+   1 alarm clock " is
+   1 alive
+   1 alive and
+   1 alive and thus
+   1 alive and thus expose
+   1 annoyed
+   1 annoyed but
+   1 annoyed but I
+   1 annoyed but I had
+   1 answer
+   1 answer [-to>>for+}
+   1 answer [-to>>for+} you
+   1 answering
+   1 answering phones
+   1 answering phones ,
+   1 answering phones , {+space+}
+   1 answers
+   1 apply [-to>>for+}
+   1 apply [-to>>for+} this
+   1 apply [-to>>for+} this exhilarating
+   1 apply for the
+   1 apply for the [-Fitness>>fitness+}
+   1 apply for this
+   1 apply for this job
+   1 apply for {+the+}
+   1 apply for {+the+} [-fitness>>Fitness+}
+   1 appointments
+   1 appointments ,
+   1 appointments , {+space+}
+   1 appointments , {+space+} meeting
+   1 appropriate for
+   1 appropriate for [-woman>>women+}
+   1 appropriate for [-woman>>women+} or
+   1 appropriate to
+   1 appropriate to buy
+   1 appropriate to buy the
+   1 approximately
+   1 approximately 30
+   1 approximately 30 to
+   1 approximately 30 to 40
+   1 area .-]
+   1 area .-] 2
+   1 area [-marked
+   1 area [-marked this
+   1 area [-marked this is
+   1 area for
+   1 area for the
+   1 area for the second
+   1 area marked
+   1 area marked as
+   1 area marked as the
+   1 area of about
+   1 area of about 8
+   1 area of about8
+   1 area of about8 meters
+   1 arms
+   1 arms up
+   1 arms up towards
+   1 arms up towards the
+   1 arrive [-to>>at+}
+   1 arrive [-to>>at+} Paris
+   1 arrive [-to>>at+} Paris {+they+}
+   1 arrive in
+   1 arrive in the
+   1 arrive in the USA
+   1 arrive maybe
+   1 arrive maybe at
+   1 arrive maybe at about
+   1 arrive {+at+}
+   1 arrive {+at+} the
+   1 arrive {+at+} the hotel
+   1 arrived [-To>>in+}
+   1 arrived [-To>>in+} Mexico
+   1 arrived [-To>>in+} Mexico City
+   1 arrived [-in>>at+} Santa
+   1 arrived [-in>>at+} Santa Monica
+   1 arrived [-in>>at+} the
+   1 arrived [-in>>at+} the Beijing
+   1 arrived from
+   1 arrived from N.York
+   1 arrived from N.York and
+   1 arrived there
+   1 arrived there ,
+   1 arrived there , I
+   1 ask
+   1 ask {+you+}
+   1 ask {+you+} to
+   1 ask {+you+} to improve
+   1 asked
+   1 asked Isabella
+   1 asked Isabella not
+   1 asked Isabella not to
+   1 assist [-the>>my+}
+   1 assist [-the>>my+} clients
+   1 assist [-the>>my+} clients to
+   1 assist {+me
+   1 assist {+me to+}
+   1 assist {+me to+} [-.-]
+   1 assure
+   1 assure my
+   1 assure my [-colocation>>colocation+}
+   1 assure my [-colocation>>colocation+} in
+   1 ate
+   1 ate in
+   1 ate in your
+   1 ate in your restaurant
+   1 attend
+   1 attend the
+   1 attend the AD
+   1 attention [-of>>to+}
+   1 attention [-of>>to+} my
+   1 attention [-of>>to+} my children
+   1 attention the
+   1 attention the possibility
+   1 attention the possibility of
+   1 avoid
+   1 avoid [-ing-]
+   1 avoid [-ing-] capsize
+   1 baby ,
+   1 baby , {+space+}
+   1 baby , {+space+} and
+   1 baby [-borned>>was
+   1 baby [-borned>>was born+}
+   1 baby [-borned>>was born+} yesterday
+   1 back ,
+   1 back , backpack
+   1 back , backpack ,
+   1 back day
+   1 back day early
+   1 back day early {+on+}
+   1 back from Cancun
+   1 back from your
+   1 back from your honeymoon
+   1 back next
+   1 back next [-sunday>>Sunday+}
+   1 back on
+   1 back on [-sunday>>Sunday+}
+   1 back on [-sunday>>Sunday+} evening
+   1 back this
+   1 back this place
+   1 back this place is
+   1 back to
+   1 back to Brazil
+   1 back to Brazil in
+   1 band
+   1 bands are
+   1 bands are [-red>>Red+}
+   1 bands are [-red>>Red+} [-hot>>Hot+}
+   1 bands such
+   1 bands such as
+   1 bands such as Slipknot
+   1 bands that
+   1 bands that {+I+}
+   1 bands that {+I+} love
+   1 base
+   1 beautiful and
+   1 beautiful and calm
+   1 beautiful beach
+   1 beautiful beach!In
+   1 beautiful beach!In the
+   1 beautiful beach!In the evening
+   1 beautiful day
+   1 beautiful day and
+   1 beautiful day and very
+   1 beautiful girl
+   1 beautiful girl and
+   1 beautiful girl and {+is+}
+   1 beautiful house
+   1 beautiful just
+   1 beautiful just as
+   1 beautiful just as [-showed>>shown+}
+   1 became
+   1 became terrified
+   1 became terrified to
+   1 became terrified to leave
+   1 become [-to
+   1 become [-to the-]
+   1 become [-to the-] best
+   1 become fit
+   1 become fit and
+   1 become fit and healthy
+   1 become {+an+}
+   1 become {+an+} even
+   1 become {+an+} even better
+   1 bed [-,-]
+   1 bed [-,-] before
+   1 bed [-,-] before I
+   1 bed [-is>>there
+   1 bed [-is>>there was+}
+   1 bed [-is>>there was+} to
+   1 bed [-is>>was+}
+   1 bed [-is>>was+} messy
+   1 bed [-is>>was+} messy and
+   1 bed and I
+   1 bed and I did
+   1 bed and but
+   1 bed and but once
+   1 bed and drink
+   1 bed and drink plenty
+   1 bed and then
+   1 bed and then paid
+   1 bed and wash
+   1 bed and wash the
+   1 bed at 10
+   1 bed at 10 o'clock
+   1 bed at eleven
+   1 bed at eleven '
+   1 bed is
+   1 bed is between
+   1 bed is between {+the+}
+   1 bed that
+   1 bed that you
+   1 bed that you did
+   1 beds ,
+   1 beds , [-oh>>Oh+}
+   1 beds , [-oh>>Oh+} and
+   1 beds [-,>>.+} [-on>>On+}
+   1 beds [-,>>.+} [-on>>On+} Tuesday
+   1 beds [-,>>.+} on Tursday
+   1 beds [-,>>.+} on [-wednesday>>Wednesday+}
+   1 beds and [-I-]
+   1 beds and [-I-] [-pay>>payed+}
+   1 beds and [-wash>>washed+}
+   1 beds and [-wash>>washed+} the
+   1 beds and did
+   1 beds and did the
+   1 beds and washed
+   1 beds and washed the
+   1 beds and you
+   1 beds and you washed
+   1 beds are
+   1 beds are out
+   1 beds are out of
+   1 beds every
+   1 beds every day
+   1 began drawing
+   1 began drawing in
+   1 began drawing in 1992
+   1 began to
+   1 began to [-have-]
+   1 began to [-have-] [-fishing>>fish+}
+   1 begin a
+   1 begin a fantastic
+   1 begin a fantastic romance
+   1 begin on
+   1 begin on Friday
+   1 begin on Friday and
+   1 begin to be
+   1 begin to be the
+   1 begin to look
+   1 begin to look for
+   1 beginning
+   1 believe I [-Will>>will+}
+   1 believe I [-Will>>will+} be
+   1 believe I am
+   1 believe I am the
+   1 believe I have
+   1 believe I have the
+   1 believe that
+   1 believe that {+to+}
+   1 believe that {+to+} play
+   1 benefits ,
+   1 benefits , like
+   1 benefits , like full
+   1 benefits [-is>>are+}
+   1 benefits [-is>>are+} by
+   1 benefits [-is>>are+} by far
+   1 better [-the>>than+}
+   1 better [-the>>than+} black
+   1 better [-the>>than+} black hair
+   1 better day
+   1 better day for
+   1 better day for you
+   1 better leader
+   1 better leader by
+   1 better leader by learning
+   1 better than
+   1 better than [-I
+   1 better than [-I stay>>staying+}
+   1 bicycles
+   1 big ,
+   1 big , black
+   1 big , black eyes
+   1 big [-circle>>circles+}
+   1 big [-circle>>circles+} ,
+   1 big [-circle>>circles+} , [-and
+   1 big cake
+   1 big cake and
+   1 big cake and I
+   1 big city
+   1 big city ,
+   1 big city , you
+   1 big ears
+   1 big ears and
+   1 big ears and My
+   1 big family
+   1 big festival
+   1 big festival ,
+   1 big festival , that
+   1 bigger
+   1 bigger than
+   1 bigger than {+the+}
+   1 bigger than {+the+} others
+   1 bit difficult
+   1 bit difficult ,
+   1 bit difficult , but
+   1 bit terrifying
+   1 bit terrifying and
+   1 bit terrifying and hilarious
+   1 body
+   1 body and
+   1 body and not
+   1 body and not pass
+   1 book about
+   1 book about movies
+   1 booked
+   1 booked five
+   1 booked five star
+   1 booked five star hotel
+   1 books , because
+   1 books , because [-He>>he+}
+   1 books , flowers
+   1 books , flowers and
+   1 books , she
+   1 books , she really
+   1 books for
+   1 books for him
+   1 born and
+   1 born and live
+   1 born and live in
+   1 born in
+   1 born in 1986
+   1 born on
+   1 born on April
+   1 born on April [-03th>>3rd+}
+   1 boss
+   1 bottom
+   1 bottom line
+   1 bottom line {+of+}
+   1 bottom line {+of+} 10,000
+   1 bread
+   1 bread ,
+   1 bread , a
+   1 bread , a bottle
+   1 break [-i>>.
+   1 break [-i>>. I+}
+   1 break [-i>>. I+} love
+   1 break every
+   1 break every week
+   1 breakfast [-always-]
+   1 breakfast [-always-] alone
+   1 breakfast [-always-] alone ,
+   1 breakfast and
+   1 breakfast and then
+   1 breakfast and then I
+   1 breakfast at
+   1 breakfast at seven
+   1 breakfast at seven '
+   1 breakfast for
+   1 breakfast for my
+   1 breakfast for my family
+   1 breaks and
+   1 breaks and never
+   1 breaks and never feel
+   1 bring your
+   1 bring your prefered
+   1 bring your prefered music
+   1 bringing
+   1 bringing a
+   1 bringing a bottle
+   1 bringing a bottle of
+   1 broke my
+   1 broke my windows
+   1 broke my windows and
+   1 broke the
+   1 broke the window
+   1 broke the window and
+   1 broke {+the+}
+   1 broke {+the+} lock
+   1 broke {+the+} lock [-the>>on+}
+   1 broken .
+   1 broken . In
+   1 broken . In the
+   1 broken .+}
+   1 broken .+} Regards
+   1 bus ;
+   1 bus ; {+I+}
+   1 bus ; {+I+} will
+   1 bus instead
+   1 bus instead of
+   1 bus instead of a
+   1 business owner
+   1 business owner who
+   1 business owner who killed
+   1 business trip
+   1 business trip {+s+}
+   1 business trip {+s+} and
+   1 business trips
+   1 business trips ,
+   1 business trips , I
+   1 busy then
+   1 call
+   1 call me
+   1 called Aihong
+   1 called Aihong .
+   1 called Aihong . She
+   1 called Olabode
+   1 called Weifu
+   1 called Weifu .
+   1 called Weifu . He
+   1 called [-to-]
+   1 called [-to-] the
+   1 called [-to-] the police
+   1 called the
+   1 called the police
+   1 called the police and
+   1 calm
+   1 came
+   1 came to
+   1 came to America
+   1 came to America ,
+   1 camping :
+   1 camping : a
+   1 camping : a tent
+   1 camping and
+   1 camping and I
+   1 camping and I 'm
+   1 car
+   1 car ,
+   1 car , and
+   1 car , and will
+   1 care [-about>>of+}
+   1 care [-about>>of+} things
+   1 care {+of+}
+   1 care {+of+} my
+   1 care {+of+} my house
+   1 carry
+   1 carry out
+   1 carry out this
+   1 carry out this responsibility
+   1 case
+   1 case ,
+   1 case , I
+   1 case , I want
+   1 caught her
+   1 caught her by
+   1 caught her by the
+   1 caught yet
+   1 certain
+   1 certain distance
+   1 certain distance from
+   1 certain distance from the
+   1 chair
+   1 chair ,
+   1 chair , four
+   1 chair , four pens
+   1 chairs , 12
+   1 chairs , 12 desks
+   1 chairs , [-13>>thirteen+}
+   1 chairs , [-13>>thirteen+} computers
+   1 chairs , [-thirteen
+   1 chairs , [-thirteen computers
+   1 chairs , sisteen
+   1 chairs , sisteen headphone
+   1 chairs , sixteen
+   1 chairs , sixteen headphones
+   1 chairs in
+   1 chairs in the
+   1 chairs in the main
+   1 change of
+   1 change of {+the+}
+   1 change of {+the+} company
+   1 change the blanket
+   1 change the blanket under
+   1 change the floor
+   1 change the place
+   1 change the place [-in-]
+   1 change the+}
+   1 change the+} picture
+   1 change the+} picture {+on+}
+   1 changed [-of
+   1 changed [-of the>>my+}
+   1 changed [-of the>>my+} work
+   1 changed the
+   1 changed the color
+   1 changes
+   1 checking
+   1 checking out
+   1 checking out some
+   1 checking out some of
+   1 children ,
+   1 children , playing
+   1 children , playing out
+   1 children [-to-]
+   1 children [-to-] run
+   1 children [-to-] run or
+   1 children very
+   1 children very much
+   1 children {+are+}
+   1 children {+are+} four
+   1 children {+are+} four and
+   1 choices
+   1 choices can
+   1 choices can make
+   1 choices can make your
+   1 choose a+}
+   1 choose a+} better
+   1 choose a+} better day
+   1 choose the
+   1 choose the right
+   1 choose the right time
+   1 cinema .
+   1 cinema . He
+   1 cinema . He goes
+   1 cinema and at
+   1 cinema and at nigth
+   1 cinema and theater
+   1 circumstances
+   1 circumstances [-,-]
+   1 circumstances [-,-] because
+   1 circumstances [-,-] because {+her+}
+   1 classic
+   1 classic music
+   1 clean and
+   1 clean and comfortable
+   1 clean my bedroom
+   1 clean my bedroom and
+   1 clean my desk
+   1 clean my desk because
+   1 clean the house [-,-]
+   1 clean the table
+   1 cleaned
+   1 cleaned all
+   1 cleaned all the
+   1 cleaned all the house
+   1 cleaner
+   1 cleaner rooms
+   1 cleaner rooms ,-]
+   1 cleaner rooms ,-] [-after>>After+}
+   1 cleaning is
+   1 cleaning is completed
+   1 cleaning is completed {+I+}
+   1 cleaning the
+   1 cleaning the house
+   1 cleaning the house every
+   1 clock "
+   1 clock " is
+   1 clock " is no
+   1 clock without
+   1 clock without getting
+   1 clock without getting any
+   1 clothes ,
+   1 clothes , washed
+   1 clothes , washed the
+   1 clothes and
+   1 clothes and [-shoes
+   1 clothes and [-shoes comfortable>>comfortable
+   1 clothes to
+   1 clothes to wear+}
+   1 club until
+   1 club until 4
+   1 club until 4 o'clock
+   1 club {+on
+   1 club {+on Saturday+}
+   1 college
+   1 college {+I+}
+   1 college {+I+} [-learning>>learnt+}
+   1 college {+I+} [-learning>>learnt+} [-market>>marketing+}
+   1 color {+it+}
+   1 color {+it+} is
+   1 color {+it+} is very
+   1 colors
+   1 colors and
+   1 colors and its
+   1 colors and its shape
+   1 colour
+   1 colour [-of>>it+}
+   1 colour [-of>>it+} orange
+   1 colour [-of>>it+} orange and
+   1 come ,
+   1 come , will
+   1 come , will be
+   1 come true
+   1 come true ,
+   1 come true , if
+   1 come {+here+}
+   1 come {+here+} because
+   1 come {+here+} because I
+   1 coming
+   1 common
+   1 common reaction
+   1 common reaction you
+   1 common reaction you [-had>>have+}
+   1 company 's logo was
+   1 company [-offer>>offers+}
+   1 company [-offer>>offers+} a
+   1 company [-offer>>offers+} a salary
+   1 company and [-,-]
+   1 company and [-,-] in
+   1 company and responsible
+   1 company and responsible for
+   1 company could
+   1 company could resolve
+   1 company could resolve [-,
+   1 company for
+   1 company for work>>started
+   1 company for work>>started working
+   1 company from
+   1 company from Manchester
+   1 company from Manchester and
+   1 company prefer-]
+   1 company prefer-] ,
+   1 company prefer-] , I
+   1 company which
+   1 company which [-does>>do+}
+   1 company which [-does>>do+} not
+   1 compared
+   1 complain [-me-]
+   1 complain [-me-] about
+   1 complain [-me-] about this
+   1 complain because
+   1 complain because the
+   1 complain because the food
+   1 complaint
+   1 complaint that
+   1 complaint that we
+   1 complaint that we received
+   1 complete
+   1 complete all
+   1 complete all {+the+}
+   1 complete all {+the+} spaces
+   1 completed
+   1 completed {+I+}
+   1 completed {+I+} go
+   1 completed {+I+} go to
+   1 composed
+   1 composed of
+   1 composed of ten
+   1 composed of ten plastic
+   1 confident
+   1 confident that
+   1 confident that my
+   1 confident that my training
+   1 consider it impolite to
+   1 considering
+   1 considering with
+   1 considering with more
+   1 considering with more attention
+   1 contact address+}
+   1 contact address+} {+Dear
+   1 contact address+} {+Dear Sir
+   1 contact us>>for
+   1 contact us>>for contacting
+   1 contact us>>for contacting us+}
+   1 contact with [-guest>>guests+}
+   1 contact with {+the+}
+   1 contact with {+the+} animals
+   1 contacting
+   1 contacting us+}
+   1 contacts
+   1 contacts with
+   1 contacts with [-peoples>>people+}
+   1 contacts with [-peoples>>people+} [-of>>from+}
+   1 control
+   1 control yourself
+   1 control yourself more
+   1 costs
+   1 costs ,
+   1 costs , Roy
+   1 costs , Roy [-accepted>>agreed+}
+   1 course for
+   1 course for dance
+   1 course for dance and
+   1 course of
+   1 course of study+}
+   1 course with
+   1 course with a
+   1 course with a special
+   1 courses
+   1 courses conducted
+   1 courses conducted by
+   1 courses conducted by EF+}
+   1 crashed
+   1 crashed {+on+}
+   1 crashed {+on+} [-a>>an+}
+   1 crashed {+on+} [-a>>an+} iceberg
+   1 culture
+   1 culture before
+   1 culture before coming
+   1 current
+   1 current {+didn't
+   1 current {+didn't capsize
+   1 current {+didn't capsize us+}
+   1 customs
+   1 customs officer
+   1 dance and back
+   1 dance and back day
+   1 dance and entertainment
+   1 dance at
+   1 dance at night
+   1 dance at night ,
+   1 dance music ,
+   1 dance music , but
+   1 dance music .
+   1 dance music . Maybe
+   1 dance music ...
+   1 dance music ... And
+   1 dance music and
+   1 dance music and [-bring>>take+}
+   1 dancing , [-readings>>reading+}
+   1 dancing , [-readings>>reading+} and
+   1 dancing , eating
+   1 dancing , eating out
+   1 dancing with
+   1 dancing with my
+   1 dancing with my friends
+   1 dark black
+   1 dark black skirt
+   1 dark black skirt is
+   1 dark orange
+   1 dark orange dress
+   1 dark orange dress is
+   1 date for
+   1 date for [-do-]
+   1 date for [-do-] it
+   1 date of
+   1 date of {+our+}
+   1 date of {+our+} teacher
+   1 day "
+   1 day " [-So
+   1 day " [-So Paulo
+   1 day , I
+   1 day , I did
+   1 day , [-to>>and+}
+   1 day , [-to>>and+} hurt
+   1 day , and
+   1 day , and [-in>>on+}
+   1 day , because
+   1 day , because it
+   1 day , but
+   1 day , but not
+   1 day , not
+   1 day , not [-in
+   1 day , walk
+   1 day , walk the
+   1 day , we
+   1 day , we {+will+}
+   1 day I
+   1 day I [-make>>made+}
+   1 day I [-make>>made+} the
+   1 day [-,-]
+   1 day [-,-] except
+   1 day [-,-] except when
+   1 day and do
+   1 day and do n't
+   1 day and play
+   1 day and play {+with+}
+   1 day and very
+   1 day and very hot
+   1 day and we
+   1 day and we {+will+}
+   1 day at
+   1 day at the
+   1 day at the night
+   1 day but
+   1 day but ,
+   1 day but , if
+   1 day early
+   1 day early {+on+}
+   1 day early {+on+} Sunday
+   1 day for you
+   1 day for you {+to
+   1 day in the morning
+   1 day is [-on-]
+   1 day is [-on-] Saturday
+   1 day is [-sunday>>Sunday+}
+   1 day is windy
+   1 day is windy ,
+   1 day more
+   1 day more [-working-]
+   1 day more [-working-] to
+   1 day of {+the+}
+   1 day of {+the+} week
+   1 day that
+   1 day that I
+   1 day that I will
+   1 day turned
+   1 day turned out
+   1 day turned out in
+   1 day we
+   1 day we found
+   1 day we found an
+   1 day you
+   1 day you married
+   1 day you married sorry
+   1 days , I
+   1 days , I stayed
+   1 days , but
+   1 days , but there
+   1 days , that
+   1 days , that 's
+   1 days ago
+   1 days ago I
+   1 days ago I [-sweeped>>swept+}
+   1 days and
+   1 days and sick
+   1 days and sick days
+   1 days you
+   1 days you do
+   1 days you do n't
+   1 days {+I+}
+   1 days {+I+} do
+   1 days {+I+} do n't
+   1 death
+   1 death of
+   1 death of their
+   1 death of their husbands
+   1 degree
+   1 depend
+   1 depend on
+   1 depend on it
+   1 depends
+   1 depends on
+   1 depends on putting
+   1 depends on putting all
+   1 desire
+   1 desire to
+   1 desire to encourage
+   1 desire to encourage other
+   1 detail
+   1 detail ,
+   1 detail , but
+   1 detail , but I
+   1 die and
+   1 die and is
+   1 die and is always
+   1 die together
+   1 difference
+   1 difference of
+   1 difference of 70
+   1 difference of 70 billion
+   1 different kinds
+   1 different kinds of
+   1 different kinds of music
+   1 different people
+   1 different people and
+   1 different people and places
+   1 different times
+   1 different times ,
+   1 different times , there
+   1 dinner , washed {+the+}
+   1 dinner . At
+   1 dinner . At 10
+   1 dinner . I
+   1 dinner . I was
+   1 dinner [-sometime>>sometimes+}
+   1 dinner [-sometime>>sometimes+} [-in>>with+}
+   1 dinner [-sometime>>sometimes+} [-in>>with+} {+my+}
+   1 dinner and [-dined>>dining+}
+   1 dinner and [-dined>>dining+} together
+   1 dinner and at
+   1 dinner and at 10:00
+   1 dinner at 6:00
+   1 dinner at 6:00 [-o'clock>>pm+}
+   1 dinner at six
+   1 dinner at six o'clock
+   1 dinner in
+   1 dinner in [-the>>a+}
+   1 dinner in [-the>>a+} good
+   1 dinner is
+   1 dinner today
+   1 dinner with
+   1 dinner with me
+   1 discriminate
+   1 discriminate {+against+}
+   1 discriminate {+against+} any
+   1 discriminate {+against+} any employees
+   1 discriminated because
+   1 discriminated because {+of+}
+   1 discriminated because {+of+} your
+   1 discrimination ,
+   1 discrimination , the
+   1 discrimination , the problem
+   1 discrimination against
+   1 discrimination against men
+   1 dishes , [-make>>made+}
+   1 dishes , [-make>>made+} the
+   1 dishes , that
+   1 dishes , that you
+   1 dishes .
+   1 dishes . On
+   1 dishes . On Wednesday
+   1 dishes [-,>>and+}
+   1 dishes [-,>>and+} made
+   1 dishes [-,>>and+} made the
+   1 dishes and did
+   1 dishes and did the
+   1 dishes and ironed
+   1 dishes and ironed my
+   1 dishes and you
+   1 dishes and you made
+   1 dishes on Saturday
+   1 dishes on Saturday {+word
+   1 dishes on [-Monday
+   1 dishes on [-Monday ,
+   1 dishes {+on+}
+   1 dishes {+on+} the
+   1 dishes {+on+} the next
+   1 distance
+   1 distance from
+   1 distance from the
+   1 distance from the basket
+   1 doubts
+   1 doubts ,
+   1 doubts , call
+   1 doubts , call me
+   1 dream house
+   1 dream house ,
+   1 dream house , with
+   1 dream that
+   1 dream that I
+   1 dream that I 'd
+   1 dream {+a+}
+   1 dream {+a+} reality
+   1 dreams
+   1 dreams can
+   1 dreams can come
+   1 dreams can come true
+   1 dress [-.-]
+   1 dress [-.-] and
+   1 dress [-.-] and she
+   1 dress code
+   1 dress code [-to>>for+}
+   1 dress code [-to>>for+} this
+   1 dress is
+   1 dress is $
+   1 dress is $ 1,99
+   1 dress only
+   1 dress red
+   1 dress red and
+   1 dress red and black
+   1 dresses [-U>>US+}
+   1 dresses [-U>>US+} $
+   1 dresses pink
+   1 dresses pink ,
+   1 dresses pink , blue
+   1 drive a
+   1 drive a car
+   1 drive a car ,
+   1 drive down
+   1 drive down Liverpool
+   1 drive down Liverpool Rd
+   1 drive to
+   1 drive to the
+   1 drive to the work
+   1 dust
+   1 eat Italian
+   1 eat Italian food
+   1 eat [-out-]
+   1 eat [-out-] in
+   1 eat [-out-] in a
+   1 eat at one
+   1 eat at one of
+   1 eat at {+the+}
+   1 eat at {+the+} most
+   1 eat meat
+   1 eat meat and
+   1 eat meat and drink
+   1 eat out
+   1 eat out and
+   1 eat out and drink
+   1 eating out
+   1 eating out [-e>>and+}
+   1 eating out [-e>>and+} sleeping
+   1 eats dinner .
+   1 eats dinner . At
+   1 eats dinner at 6:00
+   1 eats dinner at six
+   1 eats lunch
+   1 eats lunch .
+   1 eats lunch . AT
+   1 education
+   1 education and
+   1 education and work
+   1 education and work experiences
+   1 effective
+   1 effective way
+   1 effective way to
+   1 effective way to relieve
+   1 effects
+   1 effects ,
+   1 effects , take
+   1 effects , take a
+   1 electronic dictionary by
+   1 electronic dictionary by [-test>>testing+}
+   1 electronic dictionary is
+   1 electronic dictionary is bigger
+   1 end , [-they
+   1 end , [-they have
+   1 end , you
+   1 end , you have
+   1 end John
+   1 end John and
+   1 end John and Isabella
+   1 energetic
+   1 energetic and
+   1 energetic and enthusiastic
+   1 energetic and enthusiastic person
+   1 enjoys
+   1 enjoys good
+   1 enjoys good health
+   1 enjoys good health by
+   1 entertainment
+   1 equipment
+   1 equipment and
+   1 equipment and of
+   1 equipment and of understanding
+   1 estimated
+   1 estimated that
+   1 estimated that in
+   1 estimated that in 2025
+   1 evening , I
+   1 evening , I am
+   1 evening , he
+   1 evening , he eats
+   1 evening , {+we
+   1 evening , {+we will+}
+   1 evening I cooked
+   1 evening I cooked dinner
+   1 evening I washed
+   1 evening I washed the
+   1 evening [-,-]
+   1 evening [-,-] he
+   1 evening [-,-] he goes
+   1 evening [-i
+   1 evening [-i 'm>>I
+   1 evening [-i 'm>>I 'm+}
+   1 evening and
+   1 evening and [-reaching>>will
+   1 evening and [-reaching>>will reach+}
+   1 evening at 6
+   1 evening at 6 o'clock
+   1 evening at 8
+   1 evening at eigth
+   1 evening at eigth o'clock
+   1 evening he
+   1 evening he play
+   1 evening {+I+}
+   1 evening {+I+} meet
+   1 evening {+I+} meet friends
+   1 everyday
+   1 everyday at
+   1 everyday at 6:30
+   1 everyday at 6:30 Pm
+   1 exception
+   1 exception not
+   1 exception not a
+   1 exception not a rule
+   1 exchange
+   1 exciting ,
+   1 exciting , is
+   1 exciting , is n't
+   1 exercise
+   1 exercising
+   1 exercising is
+   1 exercising is significant
+   1 exercising is significant for
+   1 exist
+   1 exist 6
+   1 exist 6 competitive
+   1 exist 6 competitive products
+   1 expect
+   1 expect you
+   1 expect you to
+   1 expect you to choose
+   1 expected
+   1 expected to
+   1 expected to work
+   1 expected to work around
+   1 expensive , but
+   1 expensive , but the
+   1 expensive , so
+   1 expensive , so [-,-]
+   1 expensive [-,-]
+   1 expensive [-,-] {+and+}
+   1 expensive [-,-] {+and+} we
+   1 experience :+}
+   1 experience :+} Worked
+   1 experience :+} Worked as
+   1 experience Maybe
+   1 experience Maybe ,
+   1 experience Maybe , you
+   1 experience as
+   1 experience as a
+   1 experience as a volunteer
+   1 experience in
+   1 experience in the
+   1 experience in the peace
+   1 experience that+}
+   1 experience that+} my
+   1 experience that+} my girlfriend
+   1 experience with
+   1 experience with pens
+   1 experience with pens [-to>>for+}
+   1 experiences
+   1 experiences ,
+   1 experiences , I
+   1 experiences , I believe
+   1 explain
+   1 explain the
+   1 explain the rules
+   1 explain the rules for
+   1 explained
+   1 explained our
+   1 explained our new
+   1 explained our new delivery
+   1 expose
+   1 expose the
+   1 expose the business
+   1 expose the business owner
+   1 fall in love .
+   1 fall in love with
+   1 falls
+   1 falls in
+   1 falls in numbers
+   1 falls in numbers between
+   1 fantastic job
+   1 fantastic romance
+   1 fantastic romance ,
+   1 fantastic romance , late
+   1 fat
+   1 fat ,
+   1 fat , but
+   1 fat , but she
+   1 favorite [-season>>seasons+}
+   1 favorite [-season>>seasons+} [-it
+   1 favorite [-season>>seasons+} [-it 's>>are+}
+   1 favorite bands
+   1 favorite bands are
+   1 favorite bands are [-red>>Red+}
+   1 favorite day is
+   1 favorite day is [-saturday>>Saturday+}
+   1 favorite day of
+   1 favorite day of {+the+}
+   1 favorite number
+   1 favorite number is
+   1 favorite number is 7
+   1 favorite restaurant
+   1 favorite sport
+   1 favorite sport is
+   1 favorite sport is the
+   1 favourite day is [-on-]
+   1 favourite day is [-saturday>>Saturday+}
+   1 feed [-all
+   1 feed [-all days>>every
+   1 feed [-all days>>every day+}
+   1 feed the birds
+   1 feed the birds [-,-]
+   1 feed the dog
+   1 feed the dog {+at+}
+   1 feed the dogs
+   1 feed the dogs ,
+   1 feed the fish
+   1 feed the fish on
+   1 feed them
+   1 feed them daily
+   1 feed them daily ,
+   1 feel [-?-]
+   1 feel [-?-] and
+   1 feel [-?-] and ,
+   1 feel they
+   1 feel they are
+   1 feel they are regularly
+   1 feet
+   1 feet ,
+   1 feet , I
+   1 feet , I have
+   1 female
+   1 female do
+   1 female do nt
+   1 female do nt like
+   1 fever , [-a-]
+   1 fever , [-a-] headache
+   1 fever , put
+   1 fever , put {+it+}
+   1 fever .
+   1 fever . We
+   1 fever . We [-went>>wanted+}
+   1 fever [-symptom-]
+   1 fever is
+   1 fever is very
+   1 fever is very high
+   1 filled
+   1 filled with
+   1 filled with a
+   1 filled with a little
+   1 finally
+   1 finally my
+   1 finally my red
+   1 finally my red wine
+   1 find a place
+   1 find a place for
+   1 find a way
+   1 find a way to
+   1 find out
+   1 find out how
+   1 find out how much
+   1 find the
+   1 find the balls
+   1 find the balls that
+   1 finding
+   1 finding a
+   1 finding a job
+   1 finding a job ,
+   1 fine , [-Thanks>>thanks+}
+   1 fish in
+   1 fish in the
+   1 fish in the [-afternoon>>afternoons+}
+   1 fish needs
+   1 fish needs food
+   1 fish needs food on
+   1 fish on
+   1 fish on {+a+}
+   1 fish on {+a+} Monday
+   1 fish three
+   1 fish three times
+   1 fish three times [-at>>in+}
+   1 fishes [-,-]
+   1 fishes [-,-] and
+   1 fishes [-,-] and two
+   1 fishes at
+   1 fishes at [-monday>>Monday+}
+   1 fishes at [-monday>>Monday+} afternoon
+   1 fit
+   1 fit and
+   1 fit and healthy
+   1 fit and healthy too
+   1 floor , and
+   1 floor , and washed
+   1 floor , moped
+   1 floor , moped the
+   1 floor , mopped
+   1 floor , mopped the
+   1 floor ,>>and+}
+   1 floor ,>>and+} mopped
+   1 floor ,>>and+} mopped the
+   1 floor [-,>>and+}
+   1 floor [-,>>and+} in
+   1 floor [-,>>and+} in the
+   1 floor again
+   1 floor again and
+   1 floor again and did
+   1 floor and clean
+   1 floor and clean the
+   1 floor and did
+   1 floor and did the
+   1 floor and fed
+   1 floor and fed the
+   1 floor and the
+   1 floor and the did
+   1 floor and washed
+   1 floor and washed the
+   1 floor the
+   1 floor the next
+   1 floor the next [-day.On>>day
+   1 floor {+twice
+   1 floor {+twice a
+   1 floor {+twice a week+}
+   1 follows
+   1 follows :+}
+   1 follows :+} {+Position
+   1 follows :+} {+Position :+}
+   1 food ,
+   1 food , I
+   1 food , I pay+}
+   1 food .
+   1 food . After
+   1 food . After you
+   1 food [-that-]
+   1 food [-that-] you
+   1 food [-that-] you need
+   1 food and [-drink>>drinks+}
+   1 food and good
+   1 food and good for
+   1 food and other
+   1 food and other things
+   1 food enough
+   1 food enough [-to>>for+}
+   1 food enough [-to>>for+} a
+   1 food every
+   1 food every day
+   1 food every day in
+   1 food for
+   1 food for all
+   1 food on
+   1 food on Monday
+   1 food on Monday ,
+   1 food to fishes
+   1 food to fishes at
+   1 food to {+the+} birds
+   1 food to {+the+} dogs
+   1 food was
+   1 food was horrible
+   1 foods and
+   1 foods and [-fruit>>fruits+}
+   1 foods {+are+}
+   1 foods {+are+} prepared
+   1 foods {+are+} prepared with
+   1 foot
+   1 foot -
+   1 foot - ball
+   1 foot - ball {+/+}
+   1 forced
+   1 forced the
+   1 forced the lock
+   1 forced the lock of
+   1 forget
+   1 forget your
+   1 forget your passport
+   1 forgot to make
+   1 forgot to make the
+   1 forgot to set
+   1 forgot to set the
+   1 found an
+   1 found an old
+   1 found an old man
+   1 found their
+   1 found their dream
+   1 found their dream house
+   1 friend , Mick
+   1 friend , Mick ,+}
+   1 friend , Thank
+   1 friend , Thank you
+   1 friend , {+Your
+   1 friend , {+Your name
+   1 friend .
+   1 friend . That
+   1 friend . That is
+   1 friend [-,-]
+   1 friend [-,-] because
+   1 friend [-,-] because {+it+}
+   1 friend and
+   1 friend and [-me>>I+}
+   1 friend and [-me>>I+} travelled
+   1 friend was
+   1 friend was going
+   1 friend was going as
+   1 friend who
+   1 friend who became
+   1 friend who became terrified
+   1 friendly and like
+   1 friendly and like to
+   1 friendly and playful
+   1 friendly and very
+   1 friendly and very nice
+   1 friendly as
+   1 friendly as people
+   1 friendly as people but
+   1 friends , [-this>>This+}
+   1 friends , [-this>>This+} is
+   1 friends , they
+   1 friends , they play
+   1 friends ,-]
+   1 friends ,-] The
+   1 friends ,-] The monkeys
+   1 friends [-of>>from+}
+   1 friends [-of>>from+} facebook
+   1 friends [-of>>from+} facebook ,
+   1 friends and
+   1 friends and go
+   1 friends and go to
+   1 friends at 11
+   1 friends at 11 o'clock
+   1 friends at my
+   1 friends at my birthday+}
+   1 friends at night
+   1 friends but
+   1 friends but I
+   1 friends but I do
+   1 friends to [-expend
+   1 friends to [-expend some
+   1 friends to {+invite
+   1 friends to {+invite them
+   1 fruits from
+   1 fruits from trees
+   1 fruits from trees ,
+   1 full of
+   1 full of ants
+   1 full of ants ,
+   1 full time employement+}
+   1 full time work>>for
+   1 full time work>>for full
+   1 fun ,
+   1 fun , but
+   1 fun , but {+it+}
+   1 fun and cheerful
+   1 fun and then
+   1 fun and then at
+   1 fun here
+   1 fun here .
+   1 fun here . Today
+   1 future
+   1 future ,
+   1 future , spend
+   1 future , spend part
+   1 gain
+   1 gain experience
+   1 gain experience as
+   1 gain experience as a
+   1 get [-a-]
+   1 get [-a-] proper
+   1 get [-a-] proper feedback
+   1 get [-it>>them+}
+   1 get a decision
+   1 get a decision on
+   1 get a job>>This
+   1 get a job>>This will
+   1 get a promotion ,
+   1 get a promotion with
+   1 get an
+   1 get an interview
+   1 get an interview with
+   1 get back
+   1 get back from
+   1 get back from your
+   1 get experience
+   1 get experience in
+   1 get experience in the
+   1 get married
+   1 get more
+   1 get more [-health>>healthy+}
+   1 get more [-health>>healthy+} financial
+   1 get phones
+   1 get phones ,
+   1 get phones , it
+   1 get up at 6:30
+   1 gets
+   1 gets to
+   1 gets to take
+   1 gets to take two
+   1 getting any
+   1 getting any reward
+   1 getting any reward for
+   1 getting flowers
+   1 getting flowers ,
+   1 getting flowers , but
+   1 getting phones
+   1 give [-him>>them+}
+   1 give [-him>>them+} bananas
+   1 give [-him>>them+} bananas and
+   1 give a
+   1 give a "
+   1 give a " strike
+   1 give him
+   1 give him the
+   1 give him the chance+}
+   1 give it
+   1 give it to
+   1 give it to the
+   1 give you [-a>>an+}
+   1 give you [-a>>an+} [-arrived>>arrival+}
+   1 give you a
+   1 give you a good
+   1 giving me the opportunity
+   1 giving me the precious
+   1 glad
+   1 glad [-of
+   1 glad [-of your
+   1 glad [-of your heard>>to
+   1 glasses
+   1 go .
+   1 go . If
+   1 go . If you
+   1 go .-]
+   1 go .-] This
+   1 go .-] This vacancy
+   1 go [-ing-]
+   1 go [-ing-] [-to
+   1 go [-ing-] [-to go-]
+   1 go [-to
+   1 go [-to the-]
+   1 go [-to the-] shopping
+   1 go [-to-] any
+   1 go [-to-] any where
+   1 go [-to-] out
+   1 go [-to-] out because
+   1 go [-to>>on+} [-a-]
+   1 go [-to>>on+} [-a-] business
+   1 go [-to>>on+} lots
+   1 go [-to>>on+} lots of
+   1 go away
+   1 go away ,
+   1 go away , but
+   1 go back
+   1 go back this
+   1 go back this place
+   1 go dancing
+   1 go dancing with
+   1 go dancing with my
+   1 go for
+   1 go for the
+   1 go for the life
+   1 go in
+   1 go in business
+   1 go in business [-trip>>trips+}
+   1 go on business
+   1 go on business trip
+   1 go on the
+   1 go on the beautiful
+   1 go on trips
+   1 go on trips this
+   1 go on various
+   1 go on various dangeroulsy
+   1 go out alone
+   1 go out alone at
+   1 go out into
+   1 go out into the
+   1 go running
+   1 go running in
+   1 go running in {+the+}
+   1 go straight ahead
+   1 go to a party
+   1 go to bed at
+   1 go to play
+   1 go to play soccer
+   1 go to sleep
+   1 go to sleep {+I
+   1 go to the [-beaches>>beach+}
+   1 go to the [-show>>movie+}
+   1 go to the basement
+   1 go to the cinema
+   1 go to the kitchen
+   1 go to the lake
+   1 go to the museum
+   1 go to the restaurants
+   1 go to visit
+   1 go to visit someone
+   1 go to {+the+} beach
+   1 go to {+the+} supermarket
+   1 go to>>by
+   1 go to>>by not
+   1 go to>>by not going
+   1 go {+to+} a
+   1 go {+to+} a Rock
+   1 go {+to+} play
+   1 go {+to+} play soccer
+   1 go {+to+} the
+   1 go {+to+} the beach
+   1 goal
+   1 goal will
+   1 goal will be
+   1 goal will be try
+   1 goes shopping
+   1 goes shopping at
+   1 goes shopping at 3
+   1 goes to [-school
+   1 goes to [-school of
+   1 goes to bed at
+   1 goes to school
+   1 goes to school and
+   1 goes to swimming
+   1 goes to swimming at
+   1 goes well
+   1 goes well for
+   1 goes well for you
+   1 going [-on>>to+}
+   1 going [-on>>to+} the
+   1 going [-on>>to+} the beach
+   1 going [-to-]
+   1 going [-to-] there
+   1 going [-to-] there on
+   1 going [-working>>to
+   1 going [-working>>to work+}
+   1 going as
+   1 going as usual
+   1 going as usual to
+   1 going camping
+   1 going camping and
+   1 going camping and I
+   1 going swimming
+   1 going swimming because
+   1 going swimming because it
+   1 going to Paris
+   1 going to Paris with
+   1 going to [-be-]
+   1 going to [-be-] rain
+   1 going to [-eating>>eat+}
+   1 going to [-eating>>eat+} in
+   1 going to [-go
+   1 going to [-go to-]
+   1 going to [-know-]
+   1 going to [-know-] the
+   1 going to [-know>>go
+   1 going to [-know>>go to+}
+   1 going to [-one
+   1 going to [-one festival
+   1 going to be 22
+   1 going to be in
+   1 going to do
+   1 going to drive
+   1 going to drive a
+   1 going to go on
+   1 going to listen a
+   1 going to listen {+to+}
+   1 going to rain
+   1 going to rain all
+   1 going to sleep
+   1 going to sleep [-at
+   1 going to take
+   1 going to take a
+   1 going to the Jazz
+   1 going to the airport
+   1 going to the beautiful
+   1 going to+} happen
+   1 going to+} happen [-on>>from+}
+   1 going to+} restaurants
+   1 going to+} restaurants or
+   1 going to-]
+   1 going to-] celebrateevery
+   1 going to-] celebrateevery year
+   1 going {+be+}
+   1 going {+be+} to
+   1 going {+be+} to very
+   1 going {+by+}
+   1 going {+by+} bus
+   1 going {+by+} bus ;
+   1 good and
+   1 good and fascinating
+   1 good and fascinating movie
+   1 good dance
+   1 good dance music
+   1 good dance music ,
+   1 good enough
+   1 good enough time
+   1 good enough time to
+   1 good felling
+   1 good felling for
+   1 good felling for Isabella
+   1 good food
+   1 good food and
+   1 good food and other
+   1 good for any
+   1 good for any infection
+   1 good for coughing
+   1 good for coughing and
+   1 good for sore
+   1 good for sore throats
+   1 good for the
+   1 good for the fever
+   1 good for you
+   1 good for you ,
+   1 good friends
+   1 good friends to
+   1 good friends to {+invite
+   1 good health
+   1 good health by
+   1 good health by trying
+   1 good leader
+   1 good leader already
+   1 good leader already ,
+   1 good luck
+   1 good movie
+   1 good movie and
+   1 good movie and at
+   1 good news
+   1 good news about
+   1 good news about the
+   1 good person ,
+   1 good person , the
+   1 good person because
+   1 good person because if
+   1 good photographer
+   1 good photographer [-of>>for+}
+   1 good photographer [-of>>for+} a
+   1 good restaurant
+   1 good suggestion
+   1 good thing
+   1 good thing to
+   1 good thing to do
+   1 good time
+   1 good time here
+   1 good to
+   1 good to know
+   1 good to know that
+   1 got back
+   1 got back from
+   1 got back from Cancun
+   1 got flowers
+   1 got flowers from
+   1 got flowers from a
+   1 got quite
+   1 got quite popular
+   1 got quite popular in
+   1 got there
+   1 got there ,
+   1 got there , they
+   1 got to good
+   1 got to good movie
+   1 got to home
+   1 got to home on
+   1 got your
+   1 got your letter
+   1 got your letter ,
+   1 grade
+   1 grade of
+   1 grade of high
+   1 grade of high school
+   1 graduate
+   1 graduate in
+   1 graduate in {+the+}
+   1 graduate in {+the+} {+next+}
+   1 graduated I
+   1 graduated I started
+   1 graduated I started working
+   1 graduated and
+   1 graduated and lead
+   1 graduated and lead a
+   1 graduated at
+   1 graduated at the
+   1 graduated at the top
+   1 graduated from university
+   1 graduated from university in
+   1 graduated from xxxx
+   1 graduated from xxxx university
+   1 graduated {+in+}
+   1 graduated {+in+} [-engineer>>engineering+}
+   1 graduated {+in+} [-engineer>>engineering+} in
+   1 group ,
+   1 group , increasing
+   1 group , increasing and
+   1 group 1 ,
+   1 group 1 , [-what>>which+}
+   1 group 2 are
+   1 group 2 are undeniable
+   1 group 2 that
+   1 group 2 that [-have>>has+}
+   1 group 2 will
+   1 group 2 will reach
+   1 groups
+   1 groups according
+   1 groups according [-with>>to+}
+   1 groups according [-with>>to+} a
+   1 guitar ,
+   1 guitar , but
+   1 guitar , but not
+   1 guitar and
+   1 guitar and to
+   1 guitar and to sing
+   1 hair . She
+   1 hair . She looks
+   1 hair always
+   1 hair always was
+   1 hair always was long
+   1 hair and [-a-]
+   1 hair and [-a-] [-Big>>big+}
+   1 hair and [-look>>looks+}
+   1 hair and [-look>>looks+} a
+   1 hair and a
+   1 hair and a small
+   1 hair and big
+   1 hair and big ,
+   1 hair color
+   1 hair color {+it+}
+   1 hair color {+it+} is
+   1 hair is
+   1 hair is long
+   1 hair is long and
+   1 hair just
+   1 hair just like
+   1 hair just like my
+   1 hair like
+   1 hair like my
+   1 hair like my mother+}
+   1 hair which
+   1 hair which turned
+   1 hair which turned out
+   1 hands
+   1 hands {+on+}
+   1 hands {+on+} experience
+   1 happen [-on>>from+}
+   1 happen [-on>>from+} 7
+   1 happen [-on>>from+} 7 April
+   1 happened
+   1 happened around
+   1 happened around the
+   1 happened around the world
+   1 headache , sore
+   1 headache , sore throat
+   1 headache , {+and+}
+   1 headache , {+and+} a
+   1 headache and
+   1 headache and [-a-]
+   1 headache and [-a-] cough
+   1 headache you
+   1 headache you only
+   1 headache you only need
+   1 health and
+   1 health and fitness
+   1 health and fitness ,
+   1 health by
+   1 health by trying
+   1 health by trying these
+   1 hearing
+   1 hearing from
+   1 hearing from you
+   1 heavier
+   1 high he
+   1 high he said
+   1 high he said {+I+}
+   1 high school
+   1 high school and
+   1 high school and I
+   1 hire
+   1 hire a
+   1 hire a full
+   1 hire a full time
+   1 holding
+   1 holding his
+   1 holding his arms
+   1 holding his arms up
+   1 holiday every
+   1 holiday every year
+   1 holiday in California
+   1 holiday in a
+   1 holiday in a year
+   1 home ,
+   1 home , from
+   1 home , from the
+   1 home I
+   1 home I feel
+   1 home I feel tired
+   1 home and
+   1 home and [-took>>take+}
+   1 home and [-took>>take+} some
+   1 home from
+   1 home from work
+   1 home from work at
+   1 home is next
+   1 home is next to
+   1 home is opposite
+   1 home is opposite the
+   1 home on
+   1 home on Saturday
+   1 home on Saturday night
+   1 home remedies+}
+   1 homework and plays
+   1 homework and plays computer
+   1 homework and when
+   1 homework and when we
+   1 honestly
+   1 hope [-for>>to
+   1 hope [-for>>to use+}
+   1 hope [-for>>to use+} that
+   1 hope [-it>>there+}
+   1 hope [-it>>there+} will
+   1 hope [-it>>there+} will be
+   1 hope everything
+   1 hope everything goes
+   1 hope everything goes well
+   1 hope it
+   1 hope it 'll
+   1 hope it 'll {+be+}
+   1 hope that [-this>>these+}
+   1 hope that [-this>>these+} products
+   1 hope that you
+   1 hope that you come
+   1 hope that {+you
+   1 hope that {+you are+}
+   1 hope this
+   1 hope this [-help>>helps+}
+   1 hope this [-help>>helps+} you
+   1 hope you
+   1 hope you {+can
+   1 hope you {+can follow+}
+   1 hope {+for+}
+   1 hope {+for+} the
+   1 hope {+for+} the opportunity
+   1 hour
+   1 hours [-requires>>required+}
+   1 hours [-requires>>required+} for
+   1 hours [-requires>>required+} for this
+   1 hours and
+   1 hours and never
+   1 hours and never take
+   1 hours for
+   1 hours for week
+   1 housewife
+   1 hundred
+   1 hundred eight>>108+}
+   1 hundred eight>>108+} [-degrees>>'+}
+   1 hundred eight>>108+} [-degrees>>'+} Fahrenheit
+   1 immediately
+   1 immediately called
+   1 immediately called [-to-]
+   1 immediately called [-to-] the
+   1 important things
+   1 important to
+   1 important to notice
+   1 important to notice that
+   1 increase
+   1 increase your
+   1 increase your clientele
+   1 increases
+   1 increases [-into>>in+}
+   1 increases [-into>>in+} our
+   1 increases [-into>>in+} our costs
+   1 increasing
+   1 increasing and
+   1 increasing and then
+   1 increasing and then decreasing
+   1 influence
+   1 influence others
+   1 influence others in
+   1 influence others in the
+   1 influenced
+   1 influenced me
+   1 information
+   1 information on
+   1 information on {+the+}
+   1 information on {+the+} web
+   1 intend
+   1 intend to
+   1 intend to {+go
+   1 intend to {+go on
+   1 interesting , I
+   1 interesting , I always
+   1 interesting , because
+   1 interesting , because I
+   1 interesting , but
+   1 interesting , but [-i>>I+}
+   1 interesting [-a
+   1 interesting [-a lot-]
+   1 interesting [-than
+   1 interesting [-than a>>as+}
+   1 interesting [-than a>>as+} hippos
+   1 interesting and
+   1 interesting and exciting
+   1 interesting city
+   1 interesting enough
+   1 invitation
+   1 invitation to
+   1 invitation to attend
+   1 invitation to attend the
+   1 invitations
+   1 invitations for
+   1 invitations for 30
+   1 invitations for 30 good
+   1 invite you [-for>>to+}
+   1 invite you [-for>>to+} my
+   1 invite you to
+   1 invite you to leave
+   1 invite your
+   1 invite your friends
+   1 invite your friends to
+   1 invited 30
+   1 invited 30 people
+   1 invited 30 people to
+   1 invited to
+   1 invited to the
+   1 invited to the ceremony>>I
+   1 inviting
+   1 inviting all
+   1 inviting all my
+   1 inviting all my friends
+   1 job , and
+   1 job , and here
+   1 job , because
+   1 job , because I
+   1 job , did
+   1 job , did do
+   1 job I
+   1 job I have
+   1 job I have so
+   1 job [-,-]
+   1 job [-,-] because
+   1 job [-,-] because {+it+}
+   1 job [-advertising>>advertisement+}
+   1 job [-advertising>>advertisement+} that
+   1 job [-advertising>>advertisement+} that is
+   1 job [-at>>in+}
+   1 job [-at>>in+} the
+   1 job [-at>>in+} the beginning
+   1 job because I
+   1 job because I often
+   1 job because {+it+}
+   1 job because {+it+} is
+   1 job is not
+   1 job is not difficult
+   1 job is really
+   1 job is really interesting
+   1 job opportunity
+   1 job opportunity which
+   1 job opportunity which I
+   1 job that
+   1 job that I
+   1 job that I will
+   1 jobs
+   1 jobs more
+   1 jobs more appropriate
+   1 jobs more appropriate for
+   1 join
+   1 join me
+   1 join me .+}
+   1 join me .+} Bye
+   1 joined
+   1 joined the
+   1 joined the military
+   1 joined the military [-,-]
+   1 joke
+   1 keep
+   1 keep in
+   1 keep in mind
+   1 keep in mind that
+   1 kind of job
+   1 kind of job [-at>>in+}
+   1 kind of public
+   1 kind of public transportation
+   1 kind of weather
+   1 kind of weather today
+   1 kind teacher
+   1 kind teacher can
+   1 kind teacher can tell
+   1 kinds
+   1 kinds of
+   1 kinds of music
+   1 kinds of music [-:>>:+}
+   1 knocked down ,
+   1 knocked down , then
+   1 knocks
+   1 knocks down
+   1 knocks down all
+   1 knocks down all pins
+   1 know ,
+   1 know , that
+   1 know , that it
+   1 know I
+   1 know I ca
+   1 know I ca n't
+   1 know about
+   1 know about Canadian
+   1 know about Canadian culture
+   1 know different
+   1 know different people
+   1 know different people and
+   1 know explain+}
+   1 know explain+} the
+   1 know explain+} the [-instruction>>instructions+}
+   1 know how
+   1 know how to
+   1 know how to wear
+   1 know if
+   1 know if you
+   1 know if you need
+   1 know that
+   1 know that you
+   1 know that you are
+   1 know what clothes
+   1 know what clothes to
+   1 know what happened
+   1 know what happened around
+   1 know what kind
+   1 know what kind of
+   1 know what will
+   1 know what will happen
+   1 languages
+   1 large
+   1 large experience
+   1 large experience with
+   1 large experience with pens
+   1 last ,
+   1 last , clean
+   1 last , clean the
+   1 last meeting
+   1 last meeting in
+   1 last meeting in the
+   1 last week
+   1 last week [-,-]
+   1 last week [-,-] [-that>>and+}
+   1 late , I
+   1 late , I had
+   1 late , {+because+}
+   1 late , {+because+} its
+   1 late and looks
+   1 late and looks [-like-]
+   1 late and my
+   1 late and my [-wage>>salary+}
+   1 late at
+   1 late at night
+   1 late at night when
+   1 late when I
+   1 late when I got
+   1 late when visiting .
+   1 late when visiting [-,-]
+   1 later
+   1 later they
+   1 later they have
+   1 later they have a
+   1 lead
+   1 lead a
+   1 lead a team
+   1 lead a team of
+   1 learn a
+   1 learn a lot
+   1 learn a lot [-with>>from+}
+   1 learn and
+   1 learn and get
+   1 learn and get more
+   1 learn to
+   1 learn to respect
+   1 learn to respect him
+   1 learning more
+   1 learning more skills
+   1 learning stage
+   1 learning stage ,
+   1 learning stage , so
+   1 leave .
+   1 leave . They
+   1 leave . They expect
+   1 leave [-all>>a+}
+   1 leave [-all>>a+} [-noted>>note+}
+   1 leave [-all>>a+} [-noted>>note+} for
+   1 leave [-of>>an+}
+   1 leave [-of>>an+} answer
+   1 leave [-of>>an+} answer [-to>>for+}
+   1 leave her
+   1 leave her house
+   1 leave situation
+   1 leave situation is
+   1 leave situation is discriminated
+   1 left ,
+   1 left , the
+   1 left , the house
+   1 left on Green
+   1 left on Green [-Ave>>Avenue+}
+   1 left on [-the-]
+   1 left on [-the-] Green
+   1 left on {+the+}
+   1 left on {+the+} Green
+   1 less
+   1 less fortunate
+   1 less fortunate than
+   1 less fortunate than me
+   1 lessen
+   1 lessen [-you>>your+}
+   1 lessen [-you>>your+} fever
+   1 lessen [-you>>your+} fever [-symptom-]
+   1 let me
+   1 let me know
+   1 let me know if
+   1 let your
+   1 let your children
+   1 let your children [-to-]
+   1 lets
+   1 lets analyze
+   1 lets analyze both
+   1 lets analyze both groups
+   1 level
+   1 level ,
+   1 level , that
+   1 level , that is
+   1 life easier
+   1 life easier ,
+   1 life easier , [-by-]
+   1 life for
+   1 life for her
+   1 life rafts
+   1 life rafts ,
+   1 life rafts , [-But>>but+}
+   1 light and
+   1 light and thin
+   1 light and thin ,
+   1 light blue shirt
+   1 light blue shirt is
+   1 light blue shoes
+   1 light blue shoes [-is>>are+}
+   1 light music
+   1 light music and
+   1 light music and dance
+   1 listen a
+   1 listen a [-romantic
+   1 listen a [-romantic ''
+   1 listen to light
+   1 listen to light music
+   1 listen to pop
+   1 listen to pop and
+   1 listen {+to+} [-english>>English+}
+   1 listen {+to+} rock
+   1 listen {+to+} rock music
+   1 listening either
+   1 listening either {+to+}
+   1 listening either {+to+} romantic
+   1 listening {+to+}
+   1 listening {+to+} pop
+   1 listening {+to+} pop music
+   1 little [-shine>>shiny+}
+   1 little [-shine>>shiny+} do
+   1 little [-shine>>shiny+} do you
+   1 little boat
+   1 little boat ,
+   1 little boat , [-that
+   1 little breaks
+   1 little fat
+   1 little fat ,
+   1 little fat , but
+   1 little saddened
+   1 little saddened that
+   1 little saddened that my
+   1 little water
+   1 little water to
+   1 little water to make
+   1 live ,
+   1 live , and
+   1 live , and they
+   1 live [-city-]
+   1 live [-city-] at
+   1 live [-city-] at Rio
+   1 live band
+   1 live five
+   1 live five people>>Five
+   1 live five people>>Five people
+   1 live in Brazil
+   1 live in Ceara
+   1 live in Ceara State
+   1 live in France
+   1 live in Irece
+   1 live in Irece ,
+   1 live in Salvador -
+   1 live in So
+   1 live in So Paulo
+   1 live in my
+   1 live in my house+}
+   1 live in {+the+}
+   1 live in {+the+} city
+   1 lived
+   1 lived happily
+   1 lived happily ever
+   1 lived happily ever after+}
+   1 lives .
+   1 lives . After
+   1 lives . After that
+   1 lives in
+   1 lives in a
+   1 lives in a safe
+   1 living
+   1 living room
+   1 long , black
+   1 long , black [-,-]
+   1 long , straight
+   1 long , straight black
+   1 long [-tail>>tails+}
+   1 long [-tail>>tails+} and
+   1 long [-tail>>tails+} and short
+   1 long [-time>>hours+}
+   1 long [-time>>hours+} and
+   1 long [-time>>hours+} and have
+   1 long a
+   1 long a line+}
+   1 long a line+} of
+   1 long and 20
+   1 long and 20 centimeters
+   1 long and black hair
+   1 long and black like
+   1 long aspired
+   1 long aspired to
+   1 long aspired to achieve
+   1 long hours
+   1 long hours and
+   1 long hours and never
+   1 long line>>too
+   1 long line>>too long
+   1 long line>>too long a
+   1 long talk
+   1 long talk with
+   1 long talk with John
+   1 long term
+   1 long term and
+   1 long term and 2
+   1 look [-like-]
+   1 look [-like-] more
+   1 look [-like-] more happy
+   1 look for a
+   1 look for a beautiful
+   1 look for someone
+   1 look for someone intelligent
+   1 look happy
+   1 look happy and
+   1 look happy and hungry
+   1 look like
+   1 look like my
+   1 look like my mother
+   1 look more
+   1 look more modern
+   1 looked
+   1 looked [-for>>at+}
+   1 looked [-for>>at+} your
+   1 looked [-for>>at+} your recruitment
+   1 looking [-to
+   1 looking [-to hire
+   1 looking [-to hire a
+   1 looking for place
+   1 looking for place to
+   1 looking for someone
+   1 looking for someone for
+   1 looking forward
+   1 looking forward to
+   1 looking forward to hearing
+   1 looks [-like-]
+   1 looks [-like-] sloppy
+   1 looks [-like-] sloppy for
+   1 looks like [-your>>her+}
+   1 looks like [-your>>her+} mother
+   1 looks like my
+   1 looks like my father
+   1 looks like what
+   1 looks like what you
+   1 lot [-with>>from+}
+   1 lot [-with>>from+} it
+   1 lot of [-some-]
+   1 lot of [-some-] delicatessen
+   1 lot of friends
+   1 lot of friends at
+   1 lot of friends>>a
+   1 lot of friends>>a lot
+   1 lot of work
+   1 lot of work experience+}
+   1 lots of business
+   1 lots of business trips
+   1 lots of fun
+   1 lots of fun and
+   1 love .
+   1 love . I
+   1 love . I [-wish
+   1 love It
+   1 love [-sunday>>Sunday+}
+   1 love and
+   1 love and [-very
+   1 love and [-very dancing>>I'll
+   1 love music
+   1 love music [-,
+   1 love music [-, you>>.
+   1 love my job because
+   1 love playing
+   1 love playing guitar
+   1 love playing guitar and
+   1 love the colors
+   1 love the colors and
+   1 love the hair
+   1 love the hair color
+   1 love their
+   1 love their children
+   1 love their children very
+   1 love with
+   1 love with it
+   1 love {+to+} eat
+   1 love {+to+} eat Italian
+   1 love {+to+} swim
+   1 love {+to+} talk
+   1 love {+to+} talk to
+   1 love {+to+} watch
+   1 love {+to+} watch sports
+   1 loves
+   1 loves you
+   1 loves you very
+   1 loves you very much
+   1 luck
+   1 lunch .
+   1 lunch . AT
+   1 lunch . AT 4
+   1 lunch and
+   1 lunch and I
+   1 lunch and I go
+   1 lunch at 1
+   1 lunch at 1 o'clock
+   1 lunch at 2.00
+   1 lunch at 2.00 pm
+   1 lunch at twelve
+   1 lunch at twelve o'clock
+   1 lunch with
+   1 lunch with you
+   1 lunch with you on
+   1 mad
+   1 mad against
+   1 mad against the
+   1 mad against the cold
+   1 made [-from>>in+}
+   1 made [-from>>in+} US
+   1 made [-from>>in+} US [-,-]
+   1 made breakfast
+   1 made breakfast for
+   1 made breakfast for my
+   1 made the bed [-,-]
+   1 made the bed that
+   1 made the beds ,
+   1 made the beds every
+   1 mainly
+   1 mainly happy
+   1 mainly happy with
+   1 mainly happy with both
+   1 make [-his>>their+}
+   1 make [-his>>their+} dream
+   1 make [-his>>their+} dream {+a+}
+   1 make [-the>>a+}
+   1 make [-the>>a+} happy
+   1 make [-the>>a+} happy life
+   1 make a
+   1 make a budget
+   1 make a budget to
+   1 make the bed
+   1 make the bed and
+   1 make the beds
+   1 make the reservation
+   1 make the reservation when
+   1 make them
+   1 make them heavier
+   1 make you
+   1 make you want
+   1 make you want to
+   1 make your
+   1 make your life
+   1 make your life easier
+   1 making [-invitation>>invitations+}
+   1 making [-invitation>>invitations+} for
+   1 making [-invitation>>invitations+} for [-30>>thirty+}
+   1 making a
+   1 making a big
+   1 making a big cake
+   1 making invitations
+   1 making invitations for
+   1 making invitations for 30
+   1 making love
+   1 man
+   1 man ,
+   1 man , we
+   1 man , we did
+   1 mark
+   1 mark of
+   1 mark of 244
+   1 mark of 244 billion
+   1 marked
+   1 marked as
+   1 marked as the
+   1 marked as the bowling
+   1 market for
+   1 market for 20
+   1 market for 20 years
+   1 market survey
+   1 market survey which
+   1 market survey which indicated
+   1 marketing ,
+   1 marketing , sales
+   1 marketing , sales and
+   1 marketing department
+   1 married in 2001
+   1 married in 2002
+   1 married in 2002 and
+   1 married sorry
+   1 married sorry everybody
+   1 married sorry everybody ,
+   1 marry him
+   1 marry him and
+   1 marry him and [-giving
+   1 marry to
+   1 marry to him
+   1 master 's
+   1 master 's degree
+   1 master student
+   1 master student and
+   1 master student and I
+   1 means
+   1 means the
+   1 means the staff
+   1 means the staff do
+   1 meet friends and
+   1 meet friends and go
+   1 meet me
+   1 meet me [-in>>at+}
+   1 meet me [-in>>at+} this
+   1 meet on
+   1 meet on [-tuesday>>Tuesday+}
+   1 meet targets
+   1 meet targets and
+   1 meet targets and {+get+}
+   1 meet when
+   1 meet when you
+   1 meet when you get
+   1 meet you !-]
+   1 meet you !-] Nice
+   1 meet you [-too>>to+}
+   1 meet you too
+   1 meeting and I
+   1 meeting and I sometimes
+   1 meeting and greeting
+   1 meeting and greeting clients
+   1 meeting in
+   1 meeting in the
+   1 meeting in the restaurant
+   1 mental
+   1 mental health
+   1 menu [-of>>for+}
+   1 menu [-of>>for+} dinner
+   1 menu [-of>>for+} dinner is
+   1 menu for
+   1 menu for the
+   1 menu for the next
+   1 middle
+   1 middle of
+   1 middle of the
+   1 middle of the conversations
+   1 mind
+   1 mind that
+   1 mind that it
+   1 mind that it must
+   1 minutes [-to>>into+}
+   1 minutes [-to>>into+} an
+   1 minutes [-to>>into+} an awful
+   1 minutes break
+   1 minutes break [-i>>.
+   1 minutes break [-i>>. I+}
+   1 money .
+   1 money . I
+   1 money . I was
+   1 money [-on>>in+}
+   1 money [-on>>in+} my
+   1 money [-on>>in+} my bag
+   1 money [-to
+   1 money [-to go
+   1 money [-to go to>>by
+   1 money you
+   1 money you can
+   1 money you can expend
+   1 month holiday every
+   1 month holiday every year
+   1 month holiday in
+   1 month holiday in a
+   1 months to
+   1 months to adapt
+   1 months to adapt {+to+}
+   1 morning , and
+   1 morning , and then
+   1 morning , at
+   1 morning , at eleven
+   1 morning , in
+   1 morning , in So
+   1 morning , then
+   1 morning , then in
+   1 morning . After
+   1 morning . After that
+   1 morning . In
+   1 morning . In the
+   1 morning I made
+   1 morning I made breakfast
+   1 morning I {+will+}
+   1 morning I {+will+} go
+   1 morning [-Please>>please+}
+   1 morning [-Please>>please+} make
+   1 morning [-Please>>please+} make the
+   1 morning and go
+   1 morning and go dancing
+   1 morning and water
+   1 morning and water on
+   1 morning as
+   1 morning as I
+   1 morning as I would
+   1 morning at
+   1 morning at 8:00
+   1 morning at 8:00 am
+   1 morning on
+   1 morning on [-sunday>>Sunday+}
+   1 morning please
+   1 morning please mop
+   1 morning please mop the
+   1 morning sickness
+   1 morning sickness ,
+   1 morning sickness , chew
+   1 music , I
+   1 music , I love
+   1 music , [-study>>studying+}
+   1 music , [-study>>studying+} English
+   1 music , but
+   1 music , but if
+   1 music .
+   1 music . Maybe
+   1 music . Maybe it
+   1 music ...
+   1 music ... And
+   1 music ... And the
+   1 music [-,
+   1 music [-, you>>.
+   1 music [-, you>>. You+}
+   1 music [-:>>:+}
+   1 music [-:>>:+} rock
+   1 music [-:>>:+} rock [-,>>,+}
+   1 music and [-bring>>take+}
+   1 music and [-bring>>take+} {+my+}
+   1 music and dance
+   1 music and dance music
+   1 music and my
+   1 music and my favorite
+   1 music course
+   1 music course for
+   1 music course for dance
+   1 music festival [-.>>.+}
+   1 music festival [-.>>.+} The
+   1 music festival [-in>>on+}
+   1 music festival [-in>>on+} July
+   1 music festival in
+   1 music festival in Guadalajara
+   1 music festival {+that
+   1 music festival {+that begins+}
+   1 music more+}
+   1 music more+} and
+   1 music more+} and flowers
+   1 music or
+   1 music or Banda
+   1 music or Banda music
+   1 music to
+   1 music to remember
+   1 music to remember {+the+}
+   1 musics
+   1 musics she
+   1 musics she more
+   1 musics she more likes>>she
+   1 name 's Alan
+   1 name 's Alan [-.I
+   1 name 's Estefnia
+   1 name 's Estefnia ,
+   1 name 's Huty
+   1 name 's Leon
+   1 name 's [-i
+   1 name 's [-i 's-]
+   1 name 's daisy
+   1 name 's daisy ,
+   1 name ?-] [-My
+   1 name ?-] [-My name
+   1 name Lucy
+   1 name Lucy .-]
+   1 name Lucy .-] How
+   1 name and
+   1 name and contact
+   1 name and contact address+}
+   1 name is Chrys
+   1 name is Daniela
+   1 name is Dario
+   1 name is Dario .
+   1 name is Heraldo
+   1 name is Heraldo ,
+   1 name is Kebi
+   1 name is Kebi ,
+   1 name is Leonardo
+   1 name is Leonardo ,
+   1 name is Morsylene
+   1 name is [-daisy>>Daisy+}
+   1 name is [-daisy>>Daisy+} and
+   1 name is [-sylmara>>Sylmara+}
+   1 name is [-sylmara>>Sylmara+} .I'm
+   1 named
+   1 named [-sonic>>Sonic+}
+   1 named [-sonic>>Sonic+} and
+   1 named [-sonic>>Sonic+} and [-rex>>Rex+}
+   1 near my
+   1 near my house
+   1 near thefestival
+   1 necessity
+   1 necessity [-to>>of+}
+   1 necessity [-to>>of+} [-invite>>inviting+}
+   1 necessity [-to>>of+} [-invite>>inviting+} him
+   1 need ,
+   1 need , [-to
+   1 need , [-to more>>for
+   1 need [-taking>>to
+   1 need [-taking>>to take+}
+   1 need [-taking>>to take+} sunscreen
+   1 need [-that-]
+   1 need [-that-] you
+   1 need [-that-] you {+to+}
+   1 need [-the>>to+}
+   1 need [-the>>to+} feed
+   1 need [-the>>to+} feed the
+   1 need a
+   1 need a live
+   1 need a live band
+   1 need any
+   1 need any of
+   1 need any of these
+   1 need food
+   1 need food every
+   1 need food every day
+   1 need it
+   1 need it to
+   1 need it to show
+   1 need some
+   1 need some time
+   1 need some time and
+   1 need take
+   1 need take the
+   1 need take the dogs
+   1 need to [-cook>>drink+}
+   1 need to [-cook>>drink+} a
+   1 need to clarify
+   1 need to clarify the
+   1 need to show
+   1 need to show it
+   1 need to stay
+   1 need to stay away
+   1 need to talk
+   1 need to talk [-with>>to+}
+   1 need you
+   1 need you {+to+}
+   1 need you {+to+} take
+   1 need {+to+} prepare
+   1 need {+to+} prepare for
+   1 need {+to+} print
+   1 need {+to+} print the
+   1 needs a
+   1 needs a zookeeper
+   1 needs food
+   1 needs food on
+   1 needs food on Monday
+   1 needs know-]
+   1 needs know-] Santa
+   1 needs know-] Santa Monica
+   1 neglected
+   1 neglected that
+   1 neglected that detail
+   1 neglected that detail ,
+   1 nervous
+   1 nervous and
+   1 nervous and started
+   1 nervous and started to
+   1 news about
+   1 news about the
+   1 news about the complaint
+   1 news and
+   1 news and weather
+   1 news and weather forecast
+   1 news to
+   1 news to tell
+   1 news to tell you
+   1 nice [-too>>to+}
+   1 nice and
+   1 nice and [-are-]
+   1 nice and [-are-] cheap
+   1 nice with
+   1 nice with me
+   1 nice with me also
+   1 night , I 'm
+   1 night , I meet
+   1 night , I {+will+}
+   1 night , [-no
+   1 night , [-no problem
+   1 night , [-ok>>OK+}
+   1 night , and
+   1 night , and will
+   1 night , sometimes
+   1 night , sometimes {+it+}
+   1 night , they
+   1 night , they walk
+   1 night , {+a+}
+   1 night , {+a+} [-happened
+   1 night .
+   1 night . It
+   1 night . It could
+   1 night I
+   1 night I have
+   1 night I have shower
+   1 night [-at>>from+}
+   1 night [-at>>from+} 11
+   1 night [-at>>from+} 11 to
+   1 night [-i>>I+}
+   1 night [-i>>I+} {+will+}
+   1 night [-i>>I+} {+will+} go
+   1 night and
+   1 night and the
+   1 night and the birds
+   1 night every
+   1 night every day
+   1 night he
+   1 night he watches
+   1 night he watches [-tv>>TV+}
+   1 night to
+   1 night to dance
+   1 night to dance and
+   1 night when
+   1 night when everybody
+   1 night when everybody {+was+}
+   1 night {+for+}
+   1 night {+for+} one
+   1 night {+for+} one hour
+   1 nights
+   1 nights ,
+   1 nights , they
+   1 nights , they [-found>>find+}
+   1 no [-apologize>>excuse+}
+   1 no big
+   1 no big [-circle>>circles+}
+   1 no big [-circle>>circles+} ,
+   1 no problem
+   1 no problem I
+   1 no problem I can
+   1 notice
+   1 notice that
+   1 notice that already
+   1 notice that already exist
+   1 noticed
+   1 noticed the
+   1 noticed the lock
+   1 noticed the lock was
+   1 number 13
+   1 number is 36
+   1 number is 36 for
+   1 number is 7
+   1 number is 7 ,
+   1 numbers between
+   1 numbers between 2005
+   1 numbers between 2005 -
+   1 numbers have
+   1 numbers have fluctuated
+   1 numbers have fluctuated more
+   1 objectives
+   1 objectives ,
+   1 objectives , but
+   1 objectives , but some
+   1 obtain a
+   1 obtain a promotion
+   1 obtain a promotion [-,-]
+   1 obtain {+is+}
+   1 obtain {+is+} an
+   1 obtain {+is+} an MBA
+   1 occur
+   1 occur [-than-]
+   1 occur [-than-] do
+   1 occur [-than-] do not
+   1 offer
+   1 offer 15
+   1 offer 15 %
+   1 offer 15 % off
+   1 offered
+   1 offered the
+   1 offered the position
+   1 offered the position ,
+   1 oily
+   1 oily and
+   1 oily and overcooked
+   1 oily and overcooked ,
+   1 old , and
+   1 old , and have
+   1 old , he
+   1 old , he 's
+   1 old , my
+   1 old , my birthday
+   1 old , to
+   1 old , to study
+   1 old .
+   1 old . I'm
+   1 old . I'm from
+   1 old .>>Example
+   1 old .>>Example :
+   1 old .>>Example : Thank
+   1 old [-.>>,+}
+   1 old [-.>>,+} I
+   1 old [-.>>,+} I 'm
+   1 old cafe
+   1 old cafe in
+   1 old cafe in downtown
+   1 old fashioned
+   1 old fashioned [-.
+   1 old fashioned [-. Consequently-]
+   1 old man
+   1 old man ,
+   1 old man , we
+   1 old on
+   1 old on Saturday
+   1 old people
+   1 old people [-that>>who+}
+   1 old people [-that>>who+} [-they-]
+   1 open the
+   1 open the door
+   1 open the door I
+   1 open to
+   1 open to learn
+   1 open to learn and
+   1 operate
+   1 operate a
+   1 operate a music
+   1 operate a music course
+   1 opportunity is
+   1 opportunity is [-in>>for+}
+   1 opportunity is [-in>>for+} the
+   1 opportunity to show
+   1 opportunity to show my
+   1 opportunity which
+   1 opportunity which I
+   1 opportunity which I urge
+   1 opposite the park between
+   1 opposite {+to+}
+   1 opposite {+to+} the
+   1 opposite {+to+} the park
+   1 own [-home>>house+}
+   1 own [-home>>house+} ,
+   1 own [-home>>house+} , to
+   1 own depend
+   1 own depend on
+   1 own depend on it
+   1 packet
+   1 packet of
+   1 packet of ice
+   1 packet of ice -
+   1 paid 49
+   1 paid 49 dollars
+   1 paid benefits
+   1 paid benefits ,
+   1 paid benefits , like
+   1 paid the bills [-what>>that+}
+   1 paid the bills [-yet>>too+}
+   1 pair
+   1 pair of
+   1 pair of jeans
+   1 pair of jeans {+is+}
+   1 paper and
+   1 paper and bottles
+   1 paper and bottles of
+   1 paper {+ticket+}
+   1 paper {+ticket+} that
+   1 paper {+ticket+} that you
+   1 part
+   1 part of
+   1 part of my
+   1 part of my time
+   1 party [-in>>at+}
+   1 party [-in>>at+} my
+   1 party [-in>>at+} my house
+   1 party on
+   1 party on [-thursday>>Thursday+}
+   1 party on [-thursday>>Thursday+} 6th
+   1 pass the
+   1 pass the rest
+   1 pass the rest of
+   1 pass this
+   1 pass this line>>You
+   1 pass this line>>You have
+   1 pass through
+   1 pass through [-a
+   1 pass through [-a too
+   1 pay a
+   1 pay a bottom
+   1 pay a bottom line
+   1 pay only
+   1 pay only 49
+   1 pay only 49 pounds
+   1 pay scales
+   1 pay scales ,
+   1 pay scales , vacation
+   1 people ,
+   1 people , because
+   1 people , because {+they+}
+   1 people ,-]
+   1 people ,-] such
+   1 people ,-] such as
+   1 people [-Who>>who+}
+   1 people [-Who>>who+} are
+   1 people [-Who>>who+} are less
+   1 people [-that
+   1 people [-that is-]
+   1 people [-that is-] around
+   1 people [-that>>who+}
+   1 people [-that>>who+} [-they-]
+   1 people [-that>>who+} [-they-] do
+   1 people and always
+   1 people and always help
+   1 people and help
+   1 people and help [-the
+   1 people and places
+   1 people but
+   1 people but dangerous
+   1 people but dangerous if
+   1 people feel
+   1 people feel they
+   1 people feel they are
+   1 people in my [-family
+   1 people in my family
+   1 people invited
+   1 people invited to
+   1 people invited to the
+   1 people like
+   1 people like to
+   1 people like to see
+   1 people live
+   1 people live in
+   1 people live in my
+   1 people to
+   1 people to the
+   1 people to the ceremony+}
+   1 people {+in
+   1 people {+in it+}
+   1 people {+in it+} :
+   1 people {+in+}
+   1 people {+in+} my
+   1 people {+in+} my family
+   1 people {+who+}
+   1 people {+who+} will
+   1 people {+who+} will help
+   1 perfect [-to>>for+}
+   1 perfect [-to>>for+} you
+   1 perfect education
+   1 perfect education and
+   1 perfect education and work
+   1 person ,
+   1 person , the
+   1 person , the people
+   1 person because
+   1 person because if
+   1 person because if [-ai>>I
+   1 person but
+   1 person but I
+   1 person but I am
+   1 personal
+   1 personal resume
+   1 personal resume is
+   1 personal resume is as
+   1 personality
+   1 personality and
+   1 personality and working
+   1 personality and working style
+   1 phone and
+   1 phone and write
+   1 phone and write emails
+   1 phones , but
+   1 phones , but four
+   1 phones , it
+   1 phones , it 's
+   1 phones , {+space+}
+   1 phones , {+space+} [-teach>>teaching+}
+   1 piano from
+   1 piano from 1982
+   1 piano from 1982 to
+   1 piano on
+   1 piano on [-monday>>Monday+}
+   1 piano on [-monday>>Monday+} afternoon
+   1 place , I
+   1 place , I never
+   1 place , it
+   1 place , it 's
+   1 place [-in-]
+   1 place [-in-] {+for+}
+   1 place [-in-] {+for+} {+the+}
+   1 place for making
+   1 place for making love
+   1 place for them
+   1 place for them to
+   1 place is disgusting
+   1 place is on
+   1 place is on [-yellow>>Yellow+}
+   1 place it
+   1 place it on
+   1 place it on aches
+   1 place to
+   1 place to do
+   1 place to do [-and>>my+}
+   1 place will
+   1 place will be
+   1 place will be No.5
+   1 place without
+   1 place without problems
+   1 place without problems ,
+   1 place {+which
+   1 place {+which is+}
+   1 place {+which is+} so
+   1 places
+   1 play ,
+   1 play , {+it
+   1 play , {+it will
+   1 play [-a-]
+   1 play [-a-] tennis
+   1 play an
+   1 play an instrument
+   1 play an instrument [-.>>and+}
+   1 play any
+   1 play any {+instrument+}
+   1 play any {+instrument+} ,
+   1 play area>>of
+   1 play area>>of 8
+   1 play area>>of 8 x
+   1 play football
+   1 play football but
+   1 play football but I
+   1 play games with [-their
+   1 play games with them
+   1 play in
+   1 play in [-the>>a+}
+   1 play in [-the>>a+} very
+   1 play piano
+   1 play soccer in
+   1 play soccer in the
+   1 play tennis until
+   1 play tennis until eleven
+   1 play the drums
+   1 play the drums ,
+   1 play the guitar
+   1 play the guitar ,
+   1 play this
+   1 play this game
+   1 play this game [-with
+   1 play volleyball [-on>>in+}
+   1 play volleyball [-on>>in+} summer
+   1 play volleyball and
+   1 play volleyball and I
+   1 play {+this
+   1 play {+this game+}
+   1 play {+with+}
+   1 play {+with+} them
+   1 playing chess
+   1 playing football or
+   1 playing football or playing
+   1 playing guitar
+   1 playing guitar and
+   1 playing guitar and to
+   1 playing ice
+   1 playing ice hockey
+   1 playing out
+   1 playing out some
+   1 playing out some games
+   1 playing video
+   1 playing video games
+   1 playing video games ,
+   1 playing volleyball
+   1 playing {+a+}
+   1 playing {+a+} [-game
+   1 playing {+a+} [-game ps3>>ps3
+   1 plays basketball
+   1 plays basketball every
+   1 plays basketball every afternoon
+   1 plays piano
+   1 plays piano on
+   1 plays piano on [-monday>>Monday+}
+   1 plays tennis .
+   1 plays tennis . In
+   1 please mop
+   1 please mop the
+   1 please mop the floor
+   1 please walk
+   1 please walk the
+   1 please walk the dog
+   1 please {+send+}
+   1 please {+send+} [-a
+   1 please {+send+} [-a umbrella
+   1 pleased
+   1 pleased to
+   1 pleased to send
+   1 pleased to send you
+   1 pleasure [-to>>that
+   1 pleasure [-to>>that I+}
+   1 pleasure [-to>>that I+} inform
+   1 pleasure to
+   1 pleasure to receive
+   1 pleasure to receive your
+   1 pleasure {+for
+   1 pleasure {+for me+}
+   1 pleasure {+for me+} to
+   1 point each
+   1 point each pin
+   1 point each pin that
+   1 point for
+   1 point for each
+   1 point for each bottle
+   1 points are
+   1 points are [-add>>added+}
+   1 points are [-add>>added+} together
+   1 points is
+   1 points is {+the+}
+   1 points is {+the+} winner
+   1 points win
+   1 points {+is+}
+   1 points {+is+} {+the+}
+   1 points {+is+} {+the+} {+winner+}
+   1 points {+wins
+   1 points {+wins the
+   1 points {+wins the game+}
+   1 police [-this>>is+}
+   1 police [-this>>is+} [-the-]
+   1 police [-this>>is+} [-the-] searching
+   1 police and
+   1 police and then
+   1 police and then I
+   1 police but
+   1 police but they
+   1 police but they do
+   1 police did
+   1 police did a
+   1 police did a great
+   1 poor
+   1 poor and
+   1 poor and didn''t
+   1 poor and didn''t [-had>>have
+   1 position , I believe
+   1 position , I will
+   1 position at
+   1 position at {+your+}
+   1 position at {+your+} [-Sports>>sports+}
+   1 position is
+   1 position is no
+   1 position is no problem
+   1 position of
+   1 position of Regional
+   1 position of Regional Marketing
+   1 position usually
+   1 position usually requires
+   1 position usually requires approximately
+   1 possibility
+   1 possibility of
+   1 possibility of [-invest>>investing+}
+   1 possibility of [-invest>>investing+} [-on>>in+}
+   1 possible
+   1 possible I
+   1 possible I can
+   1 possible I can send
+   1 power
+   1 power ,
+   1 power , [-what>>which+}
+   1 power , [-what>>which+} [-represent>>represents+}
+   1 prefer ,
+   1 prefer , bring
+   1 prefer , bring your
+   1 prefer Sunday
+   1 prefer Sunday as
+   1 prefer Sunday as day
+   1 prefer to
+   1 prefer to work
+   1 prefer to work [-among>>in+}
+   1 prefer we
+   1 prefer we can
+   1 prefer we can change
+   1 prefered
+   1 prefered music
+   1 prepare [-foods>>food+}
+   1 prepare [-foods>>food+} for
+   1 prepare [-foods>>food+} for animals
+   1 prepare for
+   1 prepare for the
+   1 prepare for the event
+   1 prepared
+   1 prepared with
+   1 prepared with recipes
+   1 prepared with recipes from
+   1 present in
+   1 present in the
+   1 present in the market
+   1 prices
+   1 prices are
+   1 prices are $
+   1 prices are $ 1.99/pen
+   1 print at
+   1 print at home
+   1 print at home ,
+   1 print the
+   1 print the E
+   1 print the E -
+   1 problem I
+   1 problem I can
+   1 problem I can work
+   1 problem for-]
+   1 problem for-] we
+   1 problem for-] we will
+   1 problem when
+   1 problem when a
+   1 problem when a woman
+   1 problems , like
+   1 problems , like you
+   1 problems , medical
+   1 problems , medical atention
+   1 promotion ,
+   1 promotion , 15
+   1 promotion , 15 %
+   1 promotion [-,-]
+   1 promotion [-,-] to
+   1 promotion [-,-] to work
+   1 promotion with
+   1 promotion with {+a+}
+   1 promotion with {+a+} raise
+   1 protest
+   1 protest with
+   1 protest with our
+   1 protest with our company
+   1 purchasing
+   1 purchasing power
+   1 purchasing power ,
+   1 purchasing power , [-what>>which+}
+   1 pure
+   1 pure fun
+   1 put it
+   1 put it [-on>>in+}
+   1 put it [-on>>in+} the
+   1 put your partner .>>The
+   1 put {+it+} three
+   1 put {+it+} three times
+   1 put {+it+} twice
+   1 put {+it+} twice a
+   1 putting all
+   1 putting all the
+   1 putting all the balls
+   1 putting them
+   1 putting them in
+   1 putting them in danger
+   1 quality
+   1 quality and
+   1 quality and characteristics
+   1 quality and characteristics of
+   1 quickly as
+   1 quickly as it
+   1 quickly as it has
+   1 quickly if
+   1 quickly if [-allowed>>possible+}
+   1 quite lazy
+   1 quite lazy and
+   1 quite lazy and [-no>>not+}
+   1 quite popular
+   1 quite popular in
+   1 quite popular in [-the-]
+   1 rain .
+   1 rain . I
+   1 rain . I hope
+   1 rain ;
+   1 rain ; {+so
+   1 rain ; {+so I
+   1 rain [-,-]
+   1 rain [-,-] and
+   1 rain [-,-] and play
+   1 rain [-,>>,+}
+   1 rain [-,>>,+} {+so+}
+   1 rain [-,>>,+} {+so+} please
+   1 rain all [-every-]
+   1 rain all [-every-] afternoon
+   1 rain all afternoon
+   1 rain all afternoon and
+   1 raining I
+   1 raining I play
+   1 raining I play games
+   1 raining {+on+}
+   1 raining {+on+} the
+   1 raining {+on+} the first
+   1 rainy ,
+   1 rainy , on
+   1 rainy , on winter
+   1 rainy and very
+   1 rainy and very wet
+   1 rainy and windy
+   1 rainy days
+   1 rainy days you
+   1 rainy days you do
+   1 raise
+   1 raise {+of+}
+   1 raise {+of+} pay
+   1 rarely
+   1 rarely talk
+   1 rarely talk on
+   1 rarely talk on the
+   1 reach
+   1 reach the
+   1 reach the mark
+   1 reach the mark of
+   1 reaction
+   1 reaction you
+   1 reaction you [-had>>have+}
+   1 reaction you [-had>>have+} observed
+   1 reasonable
+   1 reasonable time>>May
+   1 reasonable time>>May be
+   1 reasonable time>>May be two
+   1 reasons
+   1 reasons of
+   1 reasons of why
+   1 reasons of why we
+   1 recent competitive
+   1 recent competitive products
+   1 recent days
+   1 recent days ,
+   1 recent days , that
+   1 recent research
+   1 recent research of
+   1 recent research of the
+   1 recommended
+   1 recommended to
+   1 recommended to stay
+   1 recommended to stay at
+   1 regards ,+} Gabriel
+   1 related to discrimination
+   1 related to discrimination against
+   1 related to prepare
+   1 related to prepare [-foods>>food+}
+   1 relation
+   1 relation to
+   1 relation to group
+   1 relation to group 1
+   1 relaxed
+   1 relaxed in
+   1 relaxed in the
+   1 relaxed in the bed
+   1 relaxing
+   1 remember :
+   1 remember : [-never>>Never+}
+   1 remember : [-never>>Never+} go
+   1 remember {+the+}
+   1 remember {+the+} 80
+   1 remember {+the+} 80 '
+   1 reminding
+   1 reminding me
+   1 reminding me the
+   1 reminding me the date
+   1 request
+   1 request absence
+   1 request absence from+}
+   1 request absence from+} work
+   1 requested
+   1 requested :
+   1 requested : [--
+   1 requested : [-- sneakers>>Sneakers
+   1 research
+   1 research of
+   1 research of the
+   1 research of the marketing
+   1 respect him
+   1 respect him because
+   1 respect him because of
+   1 respect that
+   1 respect that I
+   1 respect that I will
+   1 response
+   1 response to
+   1 response to your
+   1 response to your advertisement
+   1 responsible and
+   1 responsible and I
+   1 responsible and I have
+   1 responsible for
+   1 result
+   1 result of
+   1 result of the
+   1 result of the market
+   1 return
+   1 return [-On>>on+}
+   1 return [-On>>on+} Sunday
+   1 reward
+   1 reward for
+   1 reward for [-that>>it+}
+   1 right on {+the+} Green
+   1 right on {+the+} London
+   1 right time
+   1 right time to
+   1 right time to go
+   1 rings
+   1 rings and
+   1 rings and other
+   1 rings and other [-kind>>kinds
+   1 rise
+   1 rise above
+   1 rise above her
+   1 rise above her difficult
+   1 row
+   1 row of
+   1 row of 4
+   1 row of 4 ,
+   1 rows like
+   1 rows like a+}
+   1 rows like a+} [-by
+   1 rows of
+   1 rows of [-4>>four+}
+   1 rows of [-4>>four+} ,
+   1 run
+   1 run or
+   1 run or [-to-]
+   1 run or [-to-] scream
+   1 running ,
+   1 running , listening
+   1 running , listening to
+   1 running in
+   1 running in {+the+}
+   1 running in {+the+} morning
+   1 said we
+   1 said we should
+   1 said we should stay
+   1 said {+I+}
+   1 said {+I+} should
+   1 said {+I+} should {+stay+}
+   1 salary ,
+   1 salary , full
+   1 salary , full accident
+   1 salary range
+   1 salary range of
+   1 salary range of $
+   1 sales .
+   1 sales . Also
+   1 sales . Also I
+   1 sales and
+   1 sales and customer
+   1 sales and customer service
+   1 sales to
+   1 sales to build
+   1 sales to build {+the+}
+   1 same category
+   1 same place
+   1 same place ,
+   1 same place , I
+   1 same style
+   1 same time
+   1 same time ,
+   1 same time , [-They>>they+}
+   1 same way
+   1 same way it
+   1 same way it has
+   1 save
+   1 save some
+   1 save some money
+   1 save some money [-to
+   1 saving
+   1 saving many
+   1 saving many lives
+   1 saving many lives .
+   1 say
+   1 say in
+   1 say in the
+   1 say in the [-newsroom>>chat
+   1 says
+   1 says that
+   1 says that she
+   1 says that she [-understand>>understands+}
+   1 school and I
+   1 school and I intend
+   1 school and [-met>>meets+}
+   1 school and [-met>>meets+} [-to-]
+   1 school when
+   1 school when [-e-]
+   1 school when [-e-] I
+   1 search
+   1 search only
+   1 search only in
+   1 search only in this
+   1 searching
+   1 searching [-him
+   1 searching [-him for>>for
+   1 searching [-him for>>for him
+   1 see many
+   1 see many animals
+   1 see many animals were
+   1 see the
+   1 see the monkeys
+   1 see the monkeys in
+   1 see {+a+}
+   1 see {+a+} doctor
+   1 see {+a+} doctor [-,-]
+   1 see {+you+}
+   1 see {+you+} next
+   1 see {+you+} next week
+   1 seeing
+   1 seeing this
+   1 seeing this [-animals>>animal+}
+   1 seeing this [-animals>>animal+} in
+   1 seen
+   1 seen a
+   1 seen a job
+   1 seen a job [-advertising>>advertisement+}
+   1 send C.V.
+   1 send C.V. [-for>>to+}
+   1 send C.V. [-for>>to+} our
+   1 send another
+   1 send another e
+   1 send another e -
+   1 send you a
+   1 send you a special
+   1 send you three
+   1 send you three of
+   1 send {+my+}
+   1 send {+my+} CV
+   1 send {+my+} CV and
+   1 several countries
+   1 several countries and
+   1 several countries and languages
+   1 several species
+   1 several species of
+   1 several species of monkeys
+   1 several themes
+   1 several themes ,
+   1 several themes , and
+   1 shopping , eat
+   1 shopping , eat out
+   1 shopping , on
+   1 shopping , on Sunday
+   1 shopping .On
+   1 shopping .On Friday
+   1 shopping .On Friday I
+   1 shopping [-and-]
+   1 shopping [-and-] [-after-]
+   1 shopping [-and-] [-after-] eat
+   1 shopping and
+   1 shopping and [-meet>>meeting+}
+   1 shopping and [-meet>>meeting+} friends
+   1 shopping at
+   1 shopping at 3
+   1 shopping at 3 o'clock
+   1 shopping {+mall+}
+   1 sincerely
+   1 sincerely ,+}
+   1 sincerely ,+} {+Your
+   1 sink
+   1 sitting
+   1 sitting at
+   1 sitting at desk
+   1 size L
+   1 size L {+A+}
+   1 size L {+A+} [-Blue>>blue+}
+   1 size S
+   1 size S {+A+}
+   1 size S {+A+} [-Brown>>brown+}
+   1 size [-dress>>dresses+}
+   1 size [-dress>>dresses+} [-,>>.+}
+   1 size [-dress>>dresses+} [-,>>.+} [-make>>Make+}
+   1 sleep [-at
+   1 sleep [-at the
+   1 sleep [-at the Festival
+   1 sleep {+I
+   1 sleep {+I rest+}
+   1 sleeping back
+   1 sleeping back ,
+   1 sleeping back , backpack
+   1 sleeping bag
+   1 sleeping bag ,
+   1 sleeping bag , clothes
+   1 sleeping they
+   1 sleeping they stay
+   1 sleeping they stay talking
+   1 solution
+   1 solution to
+   1 solution to ease
+   1 solution to ease your
+   1 some [-Technology>>technology+}
+   1 some [-Technology>>technology+} discipline
+   1 some [-apple>>apples+}
+   1 some [-apple>>apples+} and
+   1 some [-apple>>apples+} and bananas
+   1 some [-committed>>admitted+}
+   1 some [-committed>>admitted+} that
+   1 some [-committed>>admitted+} that the
+   1 some bananas
+   1 some bananas ,
+   1 some bananas , a
+   1 some books
+   1 some books ,
+   1 some books , because
+   1 some bread
+   1 some bread ,
+   1 some bread , a
+   1 some cheese
+   1 some cheese ,
+   1 some cheese , three
+   1 some exercise
+   1 some games
+   1 some games ,
+   1 some games , entertaining
+   1 some good
+   1 some good news
+   1 some good news about
+   1 some injections
+   1 some money [-on>>in+}
+   1 some money [-on>>in+} my
+   1 some money [-to
+   1 some money [-to go
+   1 some of the items
+   1 some of the remedies
+   1 some of water
+   1 some of water and
+   1 some oranges
+   1 some oranges ,
+   1 some oranges , a
+   1 some pictures
+   1 some pictures of
+   1 some pictures of the
+   1 some potatoes
+   1 some serious
+   1 some serious problems
+   1 some serious problems have
+   1 some talk
+   1 some talk shows
+   1 some talk shows are
+   1 some time
+   1 some time and
+   1 some time and everything
+   1 some time>>have
+   1 some time>>have a
+   1 some time>>have a meal+}
+   1 some tomatoes ,
+   1 some tomatoes , a
+   1 some trips
+   1 some trips to
+   1 some trips to Florida
+   1 someone , bring
+   1 someone , bring a
+   1 someone , you
+   1 someone , you should
+   1 someone for
+   1 someone for its
+   1 someone for its position
+   1 someone intelligent
+   1 someone intelligent ,
+   1 someone intelligent , pretty
+   1 someone who
+   1 someone who adores
+   1 someone who adores you
+   1 someone {+had+}
+   1 someone {+had+} forced
+   1 someone {+had+} forced the
+   1 something quickly
+   1 something quickly as
+   1 something quickly as it
+   1 something that
+   1 something that you
+   1 something that you have
+   1 sometimes I
+   1 sometimes I don't
+   1 sometimes I don't understand+}
+   1 sometimes go
+   1 sometimes go [-to>>on+}
+   1 sometimes go [-to>>on+} [-a-]
+   1 sometimes write
+   1 sometimes write emails
+   1 sometimes write emails and
+   1 sometimes {+it+}
+   1 sometimes {+it+} is
+   1 sometimes {+it+} is cloudy
+   1 soon ,
+   1 sorry ,
+   1 sorry , but
+   1 sorry , but I
+   1 sorry everybody
+   1 sorry everybody ,
+   1 sorry everybody , the
+   1 sorry that
+   1 sorry that I
+   1 sorry that I missed
+   1 sounds
+   1 sounds exciting
+   1 sounds exciting ,
+   1 sounds exciting , is
+   1 spaces
+   1 spaces with
+   1 spaces with {+the+}
+   1 spaces with {+the+} [-true>>correct+}
+   1 speak English
+   1 speak English ,
+   1 speak English , but
+   1 speak Portuguese
+   1 speak Portuguese and
+   1 speak Portuguese and {+I
+   1 spend .
+   1 spend . See
+   1 spend . See you!Best
+   1 spend part
+   1 spend part of
+   1 spend part of my
+   1 spend there
+   1 spend there .+}
+   1 spite
+   1 spite of+}
+   1 spite of+} this
+   1 spite of+} this ,
+   1 sport
+   1 sport is
+   1 sport is the
+   1 sport is the soccer
+   1 sports
+   1 sports ,
+   1 sports , or
+   1 sports , or I
+   1 staff ,
+   1 staff , [-make>>making+}
+   1 staff , [-make>>making+} schedules
+   1 staff [-is>>were+}
+   1 staff [-is>>were+} unfriendly
+   1 staff [-is>>were+} unfriendly and
+   1 staff do
+   1 staff do not
+   1 staff do not get
+   1 stay alive
+   1 stay alive and
+   1 stay alive and thus
+   1 stay at home and
+   1 stay at the
+   1 stay at the hotel
+   1 stay away
+   1 stay away from
+   1 stay away from the>>would
+   1 stay in [-the-]
+   1 stay in [-the-] trees
+   1 stay in bed
+   1 stay in bed and
+   1 stay on
+   1 stay on the
+   1 stay on the trees
+   1 stay talking
+   1 stay talking about
+   1 stay talking about everything
+   1 stay there
+   1 stay there ,
+   1 stay there , it's
+   1 stay too late ,
+   1 stay within
+   1 stay within {+the+}
+   1 stay within {+the+} budget
+   1 stayed
+   1 stayed on
+   1 stayed on the
+   1 stayed on the road
+   1 staying in a big
+   1 staying in a small
+   1 stole
+   1 stole my
+   1 stole my [-Computer>>computer+}
+   1 stole my [-Computer>>computer+} ,
+   1 stop [-to
+   1 stop [-to talk
+   1 stop [-to talk with>>talking
+   1 stop and
+   1 stop and set
+   1 stop and set a
+   1 stop buying
+   1 stop buying ,
+   1 stop buying , but
+   1 stopping
+   1 stopping [-to
+   1 stopping [-to do-]
+   1 stopping [-to do-] compulsive
+   1 strange
+   1 strike "
+   1 strike " when
+   1 strike " when all
+   1 strike '
+   1 strike ' and
+   1 strike ' and he
+   1 strike ,
+   1 strike , then
+   1 strike , then {+the+}
+   1 strong
+   1 strong current
+   1 strong current {+didn't
+   1 strong current {+didn't capsize
+   1 student ,
+   1 student , {+she+}
+   1 student , {+she+} also
+   1 student [-ingles-]
+   1 student [-ingles-] in
+   1 student [-ingles-] in [-englishtown>>Englishtown+}
+   1 student and
+   1 student and I
+   1 student and I 'm
+   1 student the
+   1 student the EF
+   1 student the EF online>>I
+   1 students
+   1 students sitting
+   1 students sitting at
+   1 students sitting at desk
+   1 studied hard
+   1 studied hard to
+   1 studied hard to finsh
+   1 studied in
+   1 studied in the
+   1 studied in the library
+   1 studied piano
+   1 studied piano from
+   1 studied piano from 1982
+   1 studies
+   1 studies at+}
+   1 studies at+} the
+   1 studies at+} the [-University>>university+}
+   1 study Mathematics
+   1 study Mathematics in
+   1 study Mathematics in the
+   1 study [-english>>English+}
+   1 study [-english>>English+} [-toown-]
+   1 study [-english>>English+} [-toown-] every
+   1 study about
+   1 study about project
+   1 study about project management
+   1 study efficiency
+   1 study efficiency .
+   1 study efficiency . Thanks
+   1 study the
+   1 study the online
+   1 study the online courses
+   1 study time
+   1 study time and
+   1 study time and the
+   1 studying
+   1 studying English
+   1 stuff
+   1 stuff got
+   1 stuff got quite
+   1 stuff got quite popular
+   1 style and
+   1 style and habits
+   1 suddenly
+   1 suddenly see-]
+   1 suddenly see-] [-some>>Some+}
+   1 suddenly see-] [-some>>Some+} chapters
+   1 suffering [-about>>from+}
+   1 suffering [-about>>from+} {+a+}
+   1 suffering [-about>>from+} {+a+} headache
+   1 suggest
+   1 suggest ,
+   1 suggest , {+you+}
+   1 suggest , {+you+} do
+   1 suggested
+   1 suggested {+to+}
+   1 suggested {+to+} me
+   1 suggested {+to+} me that
+   1 suit and
+   1 suit and tie
+   1 suit and tie ,
+   1 suit {+or+}
+   1 suit {+or+} medium
+   1 suit {+or+} medium size
+   1 suits
+   1 suits and
+   1 suits and ties
+   1 suits and ties only
+   1 take [-a-]
+   1 take [-a-] breaks
+   1 take [-a-] breaks and
+   1 take a gap
+   1 take a gap year
+   1 take a spoonful anytime
+   1 take a spoonful of
+   1 take a taxi
+   1 take a taxi to
+   1 take a tour
+   1 take a tour [-for>>of+}
+   1 take any
+   1 take any [-personnel>>personal+}
+   1 take any [-personnel>>personal+} advantage
+   1 take breakfast
+   1 take breakfast [-always-]
+   1 take breakfast [-always-] alone
+   1 take breaks
+   1 take care [-about>>of+}
+   1 take care [-about>>of+} things
+   1 take care {+of+}
+   1 take care {+of+} my
+   1 take out
+   1 take out the
+   1 take out the trash
+   1 take the bus
+   1 take the bus instead
+   1 take them
+   1 take them for
+   1 take them for {+a+}
+   1 take two more
+   1 take two more shots
+   1 take up
+   1 take up next
+   1 take up next after
+   1 take {+a+}
+   1 take {+a+} break
+   1 take {+a+} break every
+   1 takes over
+   1 takes over the
+   1 takes over the team
+   1 taking [-a>>an+}
+   1 taking [-a>>an+} airplane
+   1 taking [-a>>an+} airplane and
+   1 taking for
+   1 taking for camping
+   1 taking for camping :
+   1 taking some
+   1 taking some pictures
+   1 taking some pictures of
+   1 taking t
+   1 taking t -
+   1 taking t - shirt
+   1 talk [-the>>with+}
+   1 talk [-the>>with+} people
+   1 talk [-the>>with+} people and
+   1 talk [-with>>to+} you
+   1 talk [-with>>to+} you ,
+   1 talk [-with>>to+} your
+   1 talk [-with>>to+} your colleagues
+   1 talk on the
+   1 talk on the phone
+   1 talk on {+the+}
+   1 talk on {+the+} phone
+   1 talk shows [-very
+   1 talk shows [-very much>>a
+   1 talk shows are
+   1 talk shows are amazing
+   1 talk to all
+   1 talk to all the
+   1 talk to people
+   1 talk to people and
+   1 talk to you
+   1 talk to you soon
+   1 talk with
+   1 talk with John
+   1 talk with>>talking
+   1 talk with>>talking to+}
+   1 talk with>>talking to+} him
+   1 talk {+with+}
+   1 talk {+with+} my
+   1 talk {+with+} my students
+   1 talking about
+   1 talking about everything
+   1 talking several
+   1 talking several themes
+   1 talking several themes ,
+   1 taxi to
+   1 taxi to my
+   1 taxi to my booked
+   1 tell me
+   1 tell me how
+   1 tell me how to
+   1 tell more
+   1 tell more when
+   1 tell more when I
+   1 tell you [-!>>my
+   1 tell you [-!>>my travel
+   1 telling
+   1 telling me
+   1 telling me that
+   1 telling me that the
+   1 tells
+   1 tells her
+   1 tells her his
+   1 tells her his secret
+   1 thanks [-to
+   1 thanks [-to contact
+   1 thanks [-to contact us>>for
+   1 thing ,
+   1 thing , [-We>>we+}
+   1 thing , [-We>>we+} will
+   1 thing I
+   1 thing I wish
+   1 thing I wish is
+   1 thing happened+}
+   1 thing happened+} ,
+   1 thing happened+} , the
+   1 thing terrible>>terrible
+   1 thing terrible>>terrible thing
+   1 thing terrible>>terrible thing happened+}
+   1 thing to
+   1 thing to do
+   1 thing to do is
+   1 things [-like
+   1 things [-like activities-]
+   1 things are+}
+   1 things are+} expensive
+   1 things in
+   1 things in my
+   1 things in my street
+   1 think [->>are+}
+   1 think [->>are+} very
+   1 think [->>are+} very fun
+   1 think about
+   1 think about that
+   1 think about that old
+   1 think all
+   1 think all that
+   1 think all that mystical
+   1 think is
+   1 think is the
+   1 think is the best
+   1 think it 's
+   1 think it 's rather
+   1 think it is
+   1 think it is true
+   1 think my
+   1 think my job
+   1 think my job is
+   1 think some
+   1 think some talk
+   1 think some talk shows
+   1 think strange
+   1 think that
+   1 think that there
+   1 think that there are
+   1 think the
+   1 think the dreams
+   1 think the dreams can
+   1 think this
+   1 think this is
+   1 think this is better
+   1 think you will
+   1 think you will sell
+   1 thinking
+   1 thinking that
+   1 thinking that [-maybe-]
+   1 thinking that [-maybe-] Isabella
+   1 thousands
+   1 thousands companies
+   1 throw
+   1 throw the
+   1 throw the balls
+   1 throw the balls in
+   1 till
+   1 till two
+   1 till two thousand+}
+   1 till two thousand+} or
+   1 time , [-They>>they+}
+   1 time , [-They>>they+} began
+   1 time , can
+   1 time , can you
+   1 time .
+   1 time . In
+   1 time . In the
+   1 time [-in-]
+   1 time [-in-] [-the>>a+}
+   1 time [-in-] [-the>>a+} week
+   1 time [-on>>at+}
+   1 time [-on>>at+} 2
+   1 time [-on>>at+} 2 pm
+   1 time and everything
+   1 time and everything will
+   1 time and the
+   1 time and the new
+   1 time at
+   1 time at 6
+   1 time at 6 PM
+   1 time between
+   1 time between my
+   1 time between my study
+   1 time employement+}
+   1 time here
+   1 time hoping
+   1 time hoping not
+   1 time hoping not to
+   1 time in Santa
+   1 time in Santa Monica
+   1 time in [-travelings>>traveling+}
+   1 time in one
+   1 time in one house
+   1 time is
+   1 time is 14
+   1 time is 14 days+}
+   1 time to [-get-]
+   1 time to [-get-] meet
+   1 time to go
+   1 time to go .
+   1 time to spend
+   1 time to spend there
+   1 time work>>for
+   1 time work>>for full
+   1 time work>>for full time
+   1 times ,
+   1 times , there
+   1 times , there were
+   1 times [-at>>in+}
+   1 times [-at>>in+} the
+   1 times [-at>>in+} the week
+   1 times a
+   1 times a day
+   1 times on
+   1 times on the
+   1 times on the infected
+   1 times per
+   1 times per day
+   1 times per day and
+   1 toilet paper and
+   1 toilet paper and bottles
+   1 told me
+   1 told me that
+   1 told me that I
+   1 told you
+   1 told you ,
+   1 told you , my
+   1 took [-that>>it+}
+   1 took my
+   1 took my laptop
+   1 took my laptop and
+   1 top and [-a-]
+   1 top and [-a-] pink
+   1 top and she
+   1 top and she has
+   1 top is
+   1 top is cheap
+   1 top of
+   1 top of the
+   1 top of the class
+   1 tour [-for>>of+}
+   1 tour [-for>>of+} the
+   1 tour [-for>>of+} the city
+   1 tour and
+   1 tour and I
+   1 tour and I know
+   1 tour without
+   1 tour without any
+   1 tour without any injuries
+   1 training
+   1 training and
+   1 training and excellent
+   1 training and excellent communication
+   1 transportation
+   1 transportation .
+   1 transportation . It
+   1 transportation . It is
+   1 travel ,
+   1 travel , too
+   1 travel experience
+   1 travel experience that+}
+   1 travel experience that+} my
+   1 travel sickness
+   1 travel sickness [-and>>or+}
+   1 travel sickness [-and>>or+} morning
+   1 travelled
+   1 travelled to
+   1 travelled to Antalya
+   1 travelled to Antalya in
+   1 trip to Florida
+   1 trip to Florida to
+   1 trip to Hawaii
+   1 trip to Hawaii or
+   1 trip {+s+}
+   1 trip {+s+} and
+   1 trip {+s+} and I
+   1 trips ,
+   1 trips , I
+   1 trips , I work
+   1 trips this
+   1 trips this weekend
+   1 trips this weekend ,
+   1 trips to
+   1 trips to Florida
+   1 trips to Florida to
+   1 true ,
+   1 true , if
+   1 true , if I
+   1 turn left on Green
+   1 turn left on {+the+}
+   1 turned out in
+   1 turned out in {+a+}
+   1 turned out to
+   1 turned out to {+be+}
+   1 turns and
+   1 turns and is
+   1 turns and is allowed
+   1 turns {+for+}
+   1 turns {+for+} each
+   1 turns {+for+} each player
+   1 understand
+   1 understand and
+   1 understand and respect
+   1 understand and respect that
+   1 understanding
+   1 understanding their
+   1 understanding their aims
+   1 understanding their aims and
+   1 university and
+   1 university and in
+   1 university and in college
+   1 university in
+   1 university in June
+   1 university in June 2010
+   1 use a
+   1 use a waterproof
+   1 use a waterproof jacket
+   1 use computer
+   1 use computer too
+   1 use computer too much
+   1 use it for
+   1 use it for three
+   1 use it in
+   1 use it in {+his
+   1 use jewellery
+   1 use jewellery like
+   1 use jewellery like [-necklace>>necklaces+}
+   1 used
+   1 used by
+   1 used by adults
+   1 used by adults only
+   1 using
+   1 using a
+   1 using a [-frisbee>>Frisbee+}
+   1 usual
+   1 usual to
+   1 usual to work
+   1 usual to work [-in>>on+}
+   1 usually am
+   1 usually am in
+   1 usually am in contact
+   1 usually go
+   1 usually go [-to
+   1 usually go [-to the-]
+   1 usually like
+   1 usually like to
+   1 usually like to be
+   1 usually requires
+   1 usually requires approximately
+   1 usually requires approximately 30
+   1 vegetables and
+   1 vegetables and greens
+   1 view
+   1 visit in
+   1 visit in the
+   1 visit in the Great
+   1 visit someone , bring
+   1 visit someone , you
+   1 visit the
+   1 visit the Forbidden
+   1 visit the Forbidden City
+   1 visited
+   1 visited my
+   1 visited my parents
+   1 visiting .
+   1 visiting . Canadians
+   1 visiting . Canadians consider
+   1 visiting [-,-]
+   1 visiting [-,-] because
+   1 visiting [-,-] because [-canadians>>Canadians+}
+   1 wait
+   1 want in
+   1 want in [-birthday
+   1 want in [-birthday a
+   1 want me
+   1 want me to
+   1 want me to buy
+   1 want something
+   1 want something that
+   1 want something that you
+   1 want to [-apology>>apologize+}
+   1 want to [-apology>>apologize+} about
+   1 want to buy
+   1 want to buy unnecessary
+   1 want to complain
+   1 want to complain [-me-]
+   1 want to cook
+   1 want to cook a
+   1 want to dedicate
+   1 want to dedicate myself
+   1 want to fall
+   1 want to fall in
+   1 want to stop
+   1 want to stop and
+   1 want to {+have+}
+   1 want to {+have+} dinner
+   1 want you
+   1 want you [-can-]
+   1 want you [-can-] {+to+}
+   1 wanted
+   1 wanted to
+   1 wanted to open
+   1 wanted to open the
+   1 wash
+   1 wash the
+   1 wash the dishes
+   1 washed the dishes .
+   1 washed the dishes [-,>>and+}
+   1 washed the dishes {+on+}
+   1 washed {+the+}
+   1 washed {+the+} dishes
+   1 washed {+the+} dishes ,
+   1 wear , [-and-]
+   1 wear , [-and-] gym
+   1 wear , scarf
+   1 wear , scarf ,
+   1 wear [-a-]
+   1 wear [-a-] sweater
+   1 wear [-a-] sweater ,
+   1 wear [-dress-]
+   1 wear [-dress-] pants
+   1 wear [-dress-] pants and
+   1 wear black
+   1 wear black suits
+   1 wear black suits and
+   1 wear blue
+   1 wear blue sweatshirt
+   1 wear blue sweatshirt in
+   1 wear my
+   1 wear my clothes>>I
+   1 wear my clothes>>I can
+   1 wear pants ,
+   1 wear pants , [-sweater>>sweaters+}
+   1 wear pants and
+   1 wear pants and socks
+   1 wear socks
+   1 wear socks soaked
+   1 wear socks soaked in
+   1 wear very
+   1 wear very formal
+   1 wear very formal [-look>>clothes
+   1 wear {+a+} hat
+   1 wear {+a+} hat in
+   1 wear {+a+} simple
+   1 wear {+a+} simple black
+   1 wear {+a+} suit
+   1 wear {+a+} suit {+or+}
+   1 wear {+a+} white
+   1 wear {+a+} white shirt
+   1 wearing a black
+   1 wearing a black shirt
+   1 wearing a pink shirt
+   1 wearing a pink top
+   1 wearing a red
+   1 wearing a red dress
+   1 wearing a skirt
+   1 wearing a skirt with
+   1 wearing a white T
+   1 wearing a white shirt
+   1 wearing a white top
+   1 wearing {+a+} [-T-shirt
+   1 wearing {+a+} [-T-shirt black
+   1 wearing {+a+} black
+   1 wearing {+a+} black T
+   1 weather [-i>>I+}
+   1 weather [-i>>I+} {+am+}
+   1 weather [-i>>I+} {+am+} going
+   1 weather [-it
+   1 weather [-it 's-]
+   1 weather [-it 's-] {+is+}
+   1 weather for
+   1 weather for today
+   1 weather for today :
+   1 weather forecast
+   1 weather forecast every
+   1 weather forecast every morning
+   1 weather is hot
+   1 weather is hot ,
+   1 weather is wet ,
+   1 weather is wet and
+   1 weather it
+   1 weather it 's
+   1 weather it 's going
+   1 weather rainy
+   1 weather rainy ,
+   1 weather rainy , on
+   1 weather today
+   1 weather today will
+   1 weather today will be
+   1 week ,
+   1 week , [-chose
+   1 week , [-chose the>>you
+   1 week . Let
+   1 week . Let me
+   1 week . Thank
+   1 week . Thank you
+   1 week .+}
+   1 week .+} [-and-]
+   1 week .+} [-and-] [-i>>I+}
+   1 week .>>Last
+   1 week .>>Last week
+   1 week .>>Last week .+}
+   1 week :
+   1 week : [-tuesday>>Tuesday+}
+   1 week : [-tuesday>>Tuesday+} ,
+   1 week [-,-]
+   1 week [-,-] [-that>>and+}
+   1 week [-,-] [-that>>and+} I
+   1 week in
+   1 week in the
+   1 week in the club
+   1 week is
+   1 week is [-on-]
+   1 week is [-on-] Saturday
+   1 weekend , I 'm
+   1 weekend , I walk
+   1 weekend , [-So>>so+}
+   1 weekend , [-So>>so+} I
+   1 weekend , [-it
+   1 weekend , [-it 'll>>it
+   1 weekend [-have
+   1 weekend [-have them
+   1 weekend [-have them understand
+   1 weekend is
+   1 weekend is [-busy
+   1 weekend is [-busy very>>very
+   1 weekend on
+   1 weekend on Saturday
+   1 weekend on Saturday I
+   1 weekends at
+   1 weekends at 5
+   1 weekends at 5 pm
+   1 went to Turkey
+   1 went to Turkey for
+   1 went to primary
+   1 went to primary school
+   1 went to see
+   1 went to see {+a+}
+   1 wet , [-then>>so+}
+   1 wet , [-then>>so+} [-I
+   1 wet , we
+   1 wet , we are
+   1 wet [-there-]
+   1 wet [-there-] outside
+   1 wet [-there-] outside ,
+   1 wet and
+   1 wet and I
+   1 wet and I go
+   1 wide
+   1 wide but
+   1 wide but it
+   1 wide but it is
+   1 win the
+   1 win the lottery
+   1 win the lottery and
+   1 wish is
+   1 wish is {+to+}
+   1 wish is {+to+} obtain
+   1 wish to
+   1 wish to sell
+   1 wish to sell my
+   1 wishes to
+   1 wishes to you
+   1 wishes to you and
+   1 work ,
+   1 work , I
+   1 work , I [-have>>feel+}
+   1 work [-among>>in+}
+   1 work [-among>>in+} the
+   1 work [-among>>in+} the most
+   1 work [-in>>on+}
+   1 work [-in>>on+} an
+   1 work [-in>>on+} an amazing
+   1 work [-to>>and+}
+   1 work [-to>>and+} {+go+}
+   1 work [-to>>and+} {+go+} home
+   1 work any
+   1 work any schedule
+   1 work any schedule however
+   1 work around
+   1 work around the
+   1 work around the clock
+   1 work at
+   1 work at 7:00
+   1 work at 7:00 pm
+   1 work every
+   1 work every day
+   1 work experience+}
+   1 work experiences
+   1 work experiences ,
+   1 work experiences , I
+   1 work for one
+   1 work for one day
+   1 work for you
+   1 work for you on
+   1 work hard
+   1 work hard [-,-]
+   1 work hard [-,-] to
+   1 work history
+   1 work history ,
+   1 work history , [-but-]
+   1 work in a
+   1 work in a management
+   1 work in an
+   1 work in an [-officer>>office+}
+   1 work in our
+   1 work in our office
+   1 work in the
+   1 work in the [-railway>>railways+}
+   1 work in {+an+}
+   1 work in {+an+} Internet
+   1 work in {+the+}
+   1 work in {+the+} same
+   1 work long [-time>>hours+}
+   1 work long [-time>>hours+} and
+   1 work long hours
+   1 work long hours and
+   1 work to
+   1 work to get
+   1 work to get [-it>>them+}
+   1 work with
+   1 work with {+the+}
+   1 work with {+the+} sales
+   1 work {+at+}
+   1 work {+at+} HP
+   1 work {+at+} HP Brazil
+   1 worked hard
+   1 worked hard [-during-]
+   1 worked hard [-during-] and
+   1 worked {+for+}
+   1 worked {+for+} six
+   1 worked {+for+} six years
+   1 working and
+   1 working and solving
+   1 working and solving problems
+   1 working in [-one>>a+}
+   1 working in [-one>>a+} foreign
+   1 working in [-the>>a+}
+   1 working in [-the>>a+} restaurant
+   1 working in a
+   1 working in a company+}
+   1 working in the
+   1 working in the [-University>>university+}
+   1 working in time
+   1 working in time to
+   1 working nor
+   1 working nor patient
+   1 working nor patient ,
+   1 working style and
+   1 working style and habits
+   1 working {+as
+   1 working {+as a+}
+   1 working {+as a+} housewife
+   1 world , and
+   1 world , and also
+   1 world , to
+   1 world , to disarm
+   1 world and
+   1 world and [-finding>>find
+   1 world and [-finding>>find a+}
+   1 worse
+   1 worse ,
+   1 worse , because
+   1 worse , because it
+   1 write -
+   1 write - up
+   1 write - up by
+   1 write emails ,
+   1 write emails , sometimes
+   1 write emails and
+   1 write emails and rarely
+   1 write to
+   1 write to you+}
+   1 written
+   1 written ,
+   1 written , that
+   1 written , that you
+   1 year ,
+   1 year , I
+   1 year , I [-have>>had+}
+   1 year and
+   1 year and [-take>>make+}
+   1 year and [-take>>make+} a
+   1 year in only
+   1 year in only one
+   1 year in that
+   1 year in that beautiful
+   1 year later
+   1 year later they
+   1 year later they have
+   1 year my
+   1 year my friend
+   1 year my friend and
+   1 year old
+   1 years [-experienced>>experience+}
+   1 years [-experienced>>experience+} ,
+   1 years [-experienced>>experience+} , answering
+   1 years after
+   1 years after {+I+}
+   1 years after {+I+} graduated
+   1 years in
+   1 years in So
+   1 years in So Paulo
+   1 years old , and
+   1 years old , he
+   1 years old , my
+   1 years old , to
+   1 years old .
+   1 years old . I'm
+   1 years old .>>Example
+   1 years old .>>Example :
+   1 years old [-.>>,+}
+   1 years old [-.>>,+} I
+   1 years old on
+   1 years old on Saturday
+   1 years to
+   1 years to stay
+   1 years to stay there
+   1 years will
+   1 years will be
+   1 years will be good
+   1 years working
+   1 years working and
+   1 years working and solving
+   1 years {+of+}
+   1 years {+of+} relevant
+   1 years {+of+} relevant [-experiences>>experience+}
+   1 years {+old+}
+   1 years {+old+} daughter
