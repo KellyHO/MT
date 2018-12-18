@@ -3,7 +3,7 @@ import sys, os
 from itertools import product
 from collections import defaultdict
 
-STOP = '。 、 ， ！ ？ 「 」 （ ） ( ) ： ； , ( ) '.split()
+# STOP = '。 、 ， ！ ？ 「 」 （ ） ( ) ： ； , ( ) '.split()
 
 PREPS = [x.strip() for x in open('prepositions.txt').readlines()]
 CPREPS = [x.strip() for x in open('prepositions-ch.txt').readlines()]
@@ -15,12 +15,14 @@ def read_tm():
         # 放棄	abandon	0.12	191.0	2582.0	454.0
         cword, eword, dice, cec, cc, ce = line.strip().split('\t')
         deps[eword][cword] = float(dice)
+        # print(deps)
     return deps
     
 def prep_in_deps(prep, deps):
     return prep in str(deps)
 
 def read_phrase_tm(tm):
+    trans_key = defaultdict(lambda: defaultdict(list))
     for line in open('mp.V.deps.tm.txt').readlines():
         # print (line)
         # abandon its non-cooperation operation	放棄 不 合作 政策	1	['V:obj:N']
@@ -43,10 +45,17 @@ def read_phrase_tm(tm):
         epat, cpat = epat.strip().split(), cpat.strip().split()
         epat, cpat = ' '.join([x for x in epat if x in GRAMMAR+PREPS]), ' '.join([x for x in cpat if x in GRAMMAR+PREPS+CPREPS])
         
-        print (ephrase, '-->', cphrase)
-        print ('\t'+head+' | '+headtran, '-->', epat+' | '+cpat)
-        print ()
-
+        # negotiate with the government --> 與 政府 商討
+        # negotiate | 商討 --> V with n | 與 n V
+        
+        # print (ephrase, '-->', cphrase)
+        ex_phrase = ephrase + '-->' + cphrase
+        # print ('\t'+head+' | '+headtran, '-->', epat+' | '+cpat)
+        en_ch_key = head+' | '+headtran
+        en_ch_pat = epat+' | '+cpat
+        trans_key[en_ch_key][en_ch_pat].append(ex_phrase)
+        # print ()
+    return trans_key
     # Step 4: Group, count, and output synchronous rules and related headword translations 
 
             
@@ -54,7 +63,12 @@ if __name__ == '__main__':
     tm = read_tm()
     #print (PREPS)
     #print ( [x for x in tm.items() ][:1][:3] )
-    read_phrase_tm(tm)
-    
+    trans_key = read_phrase_tm(tm)
+    for k, pat in trans_key.items():
+        print(k)
+        for pat, example in pat.items():
+            print('\t', pat)
+            for ex in example:
+                print('\t\t\t', ex)    
     # egrep '^[a-z][^\ \-]+\t(V|A|N):.*:N\t[a-z][^\ \-]+\t' mp.deps.txt | egrep -v ':(subj|appo|conj|gen|guest|amod|mod):' > mp.VANpn.txt
     
