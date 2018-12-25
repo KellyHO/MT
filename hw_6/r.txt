@@ -1,0 +1,26 @@
+negotiate | 商討
+	 V with n | 跟 n V
+			 negotiate adequately with the government-->跟 政府 進行 足夠 的 商討
+	 V with n | 與 n V
+			 negotiate with the government-->與 政府 商討
+			 negotiate with the government-->與 政府 進行 商討
+			 negotiate with the mainland government-->與 內地 政府 商討
+negotiate | 磋商
+	 V with n | 與 n V
+			 negotiate with the british government-->與 英國 政府 磋商
+			 negotiate with the guangdong provincial government-->與 廣東省 政府 磋商
+			 negotiate with the vietnamese government-->與 越南 政府 磋商
+			 negotiate with the vietnamese government-->與 越南 政府 進行 磋商
+	 V with n | 跟 n V
+			 negotiate with the government-->跟 政府 磋商
+	 V with n | n V
+			 negotiate with the vietnamese government-->越南 政府 進行 磋商
+negotiate | 商量
+	 V with n | 與 n V
+			 negotiate with the central government-->與 內地 中央 政府 商量
+negotiate | 議定
+	 V with n | 與 n V
+			 negotiate with the government-->與 政府 議定
+negotiate | 談判
+	 V with n | 與 n V
+			 negotiate with the vietnamese government-->與 越南 政府 談判
